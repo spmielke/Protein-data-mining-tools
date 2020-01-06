@@ -1,0 +1,745 @@
+"micrococcal nuclease"	1581	1ENA (14)	144	135		8.413	135		108.276
+"micrococcal nuclease"	1582	1NSN (4)	144	128		8.412	129		106.109
+"micrococcal nuclease"	1583	     (0)	137	133		8.423	133		104.490
+"micrococcal nuclease"	1584	     (0)	137	131		8.412	133		102.834
+"insulin B chain"	1634	4CLN (6)	148	142		8.259	147		110.126
+"ribonuclease H"	1657	1F21 (42)	155	147		8.246	148		105.930
+"glucose permease"	1663	1GPR (4)	162	148		8.381	149		110.286
+"cytochrome b562"	1672	1QQ3 (8)	106	100		8.174	100		117.872
+"cytochrome b562"	1673	1CZH (20)	169	166		8.180	165		108.710
+"micrococcal nuclease"	1696	     (0)	143	33		8.426	33		113.615
+"cro repressor"	1743	1D1L (8)	66	55		8.306	56		105.275
+"cro repressor"	1744	1D1L (8)	66	7		8.796	7		104.014
+"micrococcal nuclease"	189	1ENA (14)	156	25		8.114	25		99.384
+"elongation factor Tu"	1995	1DG1 (8)	200	4		9.602	4		113.950
+"elongation factor Tu"	1996	1DG1 (8)	200	4		9.658	4		114.150
+"interleukin 4"	2031	1HZI (19)	129	125		8.137	125		106.368
+"phosphocarrier protein HPr"	2060	1CM2 (18)	85	82		8.365	82		106.526
+"trp repressor"	2114	     (0)	65	1		8.510	19		109.163
+"amphiphilic alpha-helix peptide Baa17"	2208	2RMB (62)	165	155		8.397	156		106.616
+"phosphocarrier protein HPr"	2371	1CM2 (18)	85	82		8.336	82		112.979
+"N-terminal domain of the human oncoprotein MDM2"	2410	1YCR (1)	119	83		8.195	83		120.567
+"transcriptional regulator ner"	287	1NER (4)	69	59		7.992	59		110.076
+"transcriptional regulator ner"	288	1NER (4)	69	5		8.680	5		90.740
+"endoglucanase Cel45A"	3322	1E8Q (4)	52	50		8.425	50		119.033
+"basic pancreatic trypsin inhibitor"	338	4TPI (64)	58	51		8.149	52		114.692
+"che Y protein"	3440	1AB5 (44)	129	122		8.194	119		112.648
+"ferredoxin I"	4001	1SYM (8)	92	110		8.207	109		119.207
+"OB-fold sub-domain of staphylococcal nuclease"	4010	1JOQ (49)	103	111		8.414	111		122.377
+"Starch binding domain"	4011	1KUM (8)	108	106		8.351	101		120.612
+"Ribonuclease H1"	4012	2RN2 (8)	155	138		8.207	138		117.622
+"Ribonuclease H1"	4019	4PCY (16)	99	94		8.370	93		119.660
+"human carbonic anhydrase I"	4022	2CAB (18)	260	243		8.260	243		118.710
+"staphylococcal protein A Z domain"	4023	1BDD (4)	71	67		8.146	67		119.648
+"S. aureus DHFR(F98Y)-NADPH-TMP ternary complex"	4027	     (0)	158	148		8.427	148		119.797
+"Sex-lethal protein"	4028	1SXL (3)	184	149		8.266	149		118.888
+"Sex-lethal protein"	4029	1SXL (3)	184	149		8.284	149		118.536
+"apo-recoverin"	4030	1REC (3)	202	193		8.110	193		118.596
+"bovine pancreatic ribonuclease A"	4031	1A5P (198)	124	119		8.371	119		119.398
+"bovine pancreatic [C65S,C72S] ribonuclease A"	4032	6RAT (98)	124	119		8.367	119		119.457
+"Estrogen Related Receptor"	4033	     (0)	98	70		8.379	69		119.887
+"ERR2 DNA binding domain with a C163A mutation"	4034	     (0)	98	93		8.363	93		120.031
+"Regulatory protein E2"	4035	1A7G (4)	83	76		8.346	76		119.273
+"Regulatory protein E2"	4036	1AKP (2)	114	109		8.571	109		118.150
+"periplasmic cyclophilin type cys-trans peptidyl-prolyl isomerase"	4037	1CLH (2)	167	152		8.414	153		122.415
+"component IV glycera dibranchiata monomeric hemoglobin-CO"	4038	1VRE (4)	147	143		8.082	144		118.267
+"synaptotagmin I C2A"	4039	1RSY (3)	128	122		8.452	122		119.955
+"synaptotagmin I C2A"	4040	1JR5 (1)	90	85		8.152	85		118.326
+"synaptotagmin I C2A"	4041	1RSY (3)	128	122		8.414	122		120.029
+"high-potential iron-sulfur protein I"	4042	2HIP (4)	73	61		8.410	58		120.348
+"Uracil-DNA Glycosylase Inhibitor Protein"	4044	1UGH (7)	84	76		8.468	76		119.972
+"DNA Topoisomerase I"	4045	1YUA (2)	122	108		8.216	108		118.920
+"Drosophila Heat Shock Factor"	4046	1HKT (2)	133	122		8.234	122		118.726
+"HU protein"	4047	1HUU (3)	90	85		8.440	89		120.911
+"p53 nuclear phosphoprotein"	4048	1OLG (13)	66	36		8.397	36		120.789
+"Urokinase-type plasminogen activator"	4049	1URK (3)	130	118		8.384	117		117.848
+"gene V protein"	4050	1BE7 (15)	54	37		8.271	37		119.582
+"gene V protein"	4051	1BE7 (15)	54	27		8.267	27		120.156
+"staphylococcal nuclease"	4052	1A3U (48)	149	129		8.429	133		121.064
+"staphylococcal nuclease"	4053	1A3U (48)	149	129		8.403	127		120.864
+"calmodulin W-7 complex"	4056	1DEG (23)	148	137		8.264	135		118.427
+"calmodulin W-7 complex"	4060	     (0)	189	162		8.105	161		118.231
+"myoglobin carbon monoxide complex"	4061	1CP5 (254)	154	143		8.032	143		118.410
+"myoglobin carbon monoxide complex"	4062	1CP5 (254)	154	143		8.029	143		118.252
+"Oncostatin M"	4063	1EVS (2)	203	176		8.249	176		116.490
+"human fibroblast collagenase"	4064	1CGL (20)	169	152		8.366	152		116.510
+"turkey ovomucoid third domain"	4068	1SGQ (27)	56	52		8.387	51		118.660
+"Long-[Arg-3]-Insulin-Like Growth Factor-I"	4069	3LRI (6)	83	76		8.098	76		119.999
+"Long-[Arg-3]-Insulin-Like Growth Factor-I"	4070	1QUN (4)	205	190		8.406	190		119.824
+"Antifungal Protein 1"	4072	1GTO (8)	63	57		8.274	57		119.328
+"oxidized human ferredoxin"	4073	     (0)	124	89		8.411	89		120.680
+"reduced human ferredoxin"	4074	     (0)	124	95		8.451	95		120.448
+"DnaB helicase"	4075	1JWE (2)	142	124		8.034	124		118.366
+"Outer Surface Protein A"	4076	1OSP (4)	257	254		8.485	254		121.070
+"FK 506 Binding Protein bound to Ascomycin"	4077	1BKF (30)	107	98		8.512	98		119.018
+"App-D49 PLA2"	4078	1VAP (1)	123	117		8.164	117		119.227
+"A-domain HMG1"	4079	1CKT (2)	83	77		8.091	77		118.580
+"Troponin C"	4081	1RH2 (4)	165	159		8.136	158		118.758
+"Troponin C"	4082	1CF0 (6)	139	133		8.290	132		119.636
+"Troponin C"	4083	1AB5 (26)	128	117		8.250	117		117.815
+"Troponin C"	4084	1HA1 (3)	93	87		8.336	87		119.000
+"Sex-lethal protein RNA binding domain 2"	4085	1B7F (3)	97	89		8.302	89		118.666
+"Sex-lethal protein RNA binding domain 2"	4086	1BI7 (4)	148	124		8.089	123		119.254
+"Sex-lethal protein RNA binding domain 2"	4087	1JJH (3)	102	96		8.329	95		115.741
+"peptide deformylase"	4089	1G27 (26)	147	138		8.280	138		117.169
+"peptide deformylase"	4090	2EZH (4)	75	69		8.084	69		119.080
+"basic fibroblast growth factor"	4091	1BAS (19)	154	143		8.338	143		117.108
+"Core binding factor b subunit"	4092	1H9D (8)	143	135		8.282	135		119.121
+"RNase H domain of human HIV-1 Reverse Transcriptase"	4093	1RTI (50)	138	116		8.214	117		118.621
+"human Interleukin 4"	4094	1RCB (22)	133	129		8.133	132		118.394
+"human Interleukin 4"	4095	1AUU (2)	57	53		8.528	53		120.191
+"component IV monomeric hemoglobin-CO"	4096	1VRE (4)	147	2402		8.582	2373		8.573
+"RNase H domain of HIV-1 RVT strain BH10"	4097	1IKV (33)	135	111		8.263	111		110.168
+"Liver Fatty Acid-Binding Protein"	4098	1LFO (2)	127	109		8.631	109		123.529
+"Liver Fatty Acid-Binding Protein"	4099	1DT7 (9)	91	176		8.285	176		119.994
+"basic pancreatic trypsin inhibitor"	4100	1IG6 (2)	119	99		8.174	99		118.666
+"basic pancreatic trypsin inhibitor"	4101	1CUB (72)	214	197		8.133	197		118.170
+"metallo-beta-lactamase"	4102	1A7T (7)	232	213		8.276	213		119.533
+"BS2 operator DNA complexed with the Antennapedia Homeodomain"	4105	1SYM (8)	92	86		8.240	86		119.770
+"N-terminal Domain of Enzyme I"	4106	3EZB (22)	259	242		8.154	10		118.988
+"N-terminal Domain of Enzyme I"	4107	1MJC (4)	70	66		8.181	66		119.283
+"N-terminal Domain of Enzyme I"	4108	1MJC (4)	70	72		8.161	72		119.072
+"rat CD2 domain 1"	4109	1CDC (4)	100	284		8.470	284		121.581
+"double stranded RNA binding domain of PKR"	4110	1QU6 (2)	179	166		8.307	166		121.522
+"Intimin cell adhesion domain"	4111	1E5U (6)	280	247		8.330	247		119.048
+"Vaccinia Glutaredoxin-1"	4113	     (0)	108	101		8.197	101		117.612
+"Vaccinia Glutaredoxin-1"	4114	1A5J (2)	110	104		8.147	105		117.590
+"IM9 E9-complex"	4115	1IMP (8)	86	81		8.417	81		117.747
+"Im9 immunity protein"	4116	1IMP (8)	86	81		8.388	81		119.389
+"human Elongation Factor-1beta"	4117	1B64 (2)	91	86		8.315	86		120.199
+"Isl-1 homeodomain"	4121	1BW5 (2)	66	61		8.161	61		120.134
+"Hematopoietic cell kinase"	4122	1BU1 (11)	72	63		8.455	68		119.238
+"second PDZ domain from human phosphatase hPTP1E"	4123	3PDZ (2)	96	89		8.508	91		119.473
+"hPTP1E-Fas receptor complex"	4124	1DDF (3)	96	88		8.518	88		119.310
+"single chain three helix bundle"	4126	2A3D (1)	73	68		7.983	68		118.981
+"Origin DNA-binding domain of SV40 T-antigen"	4127	2TBD (4)	134	124		8.194	122		114.911
+"cyanobacterial metallothionein gene repressor"	4128	1SMT (2)	121	116		8.165	116		119.107
+"Nereis diversicolor sarcoplasmic calcium-binding protein"	4129	2SCP (3)	174	177		8.143	165		116.214
+"Nereis diversicolor sarcoplasmic calcium-binding protein"	4129	2SCP (3)	174	177		8.143	165		116.214
+"rat ferrocytochrome b5 A form"	4130	1IB7 (24)	94	95		8.063	94		109.867
+"rat ferrocytochrome b5 B form"	4131	1IB7 (24)	94	93		8.064	91		110.855
+"human ubiquitin-conjugating enzyme"	4132	     (0)	161	142		8.250	142		119.406
+"human ubiquitin-conjugating enzyme"	4134	1BBW (8)	120	115		8.374	115		119.570
+"E. coli multidrug resistance protein E"	4136	     (0)	110	105		8.238	105		117.695
+"EH1 domain of mouse Eps15"	4140	1QJT (2)	120	111		8.171	111		118.683
+"vnd/NK-2 homeodomain DNA complex"	4141	1QRY (4)	77	72		8.272	71		119.917
+"Neural cell adhesion molecule module 2"	4143	1EPF (4)	92	86		8.460	85		119.360
+"subunit H, RPB5"	4144	1HMJ (2)	78	72		8.251	68		119.457
+"Tec Src Homology 3 (SH3) domain"	4145	1GL5 (1)	67	64		8.605	64		120.471
+"F1Fo ATP Synthase Subunit c"	4146	1ATY (12)	79	76		8.198	76		117.442
+"Cold Shock domain"	4147	1H95 (1)	79	69		8.510	69		119.211
+"gallium putidaredoxin"	4149	1PUT (6)	106	101		8.245	101		120.739
+"third extracellular N-terminal domain of gp130"	4150	1I1R (5)	109	95		8.408	95		119.212
+"F1FO ATP Synthase Subunit c"	4151	1ATY (12)	79	76		8.183	76		117.582
+"Adenylate kinase from E. coli"	4152	1E4V (12)	214	197		8.213	197		119.078
+"Retinoid-X-Receptor -alpha DNA Binding domain"	4153	1DSZ (7)	84	79		8.407	79		120.582
+"oxidized putidaredoxin"	4154	1GPX (6)	106	82		8.121	81		120.912
+"oxidized putidaredoxin"	4155	2EOT (4)	74	64		8.217	64		119.829
+"Protein Disulfide Isomerase"	4156	2BJX (4)	110	106		8.281	106		121.460
+"Ribonuclease alpha-sarcin"	4158	1DE3 (2)	150	136		8.465	134		120.530
+"Tn916 integrase subunit 1"	4160	1TN9 (8)	81	76		8.286	76		119.991
+"IRF-2 DNA binding domain"	4161	1IRG (6)	113	101		8.236	101		119.977
+"Neural cell adhesion molecule module 1"	4162	2NCM (4)	99	95		8.499	96		118.914
+"Tn916 integrase DNA complex"	4165	2BB8 (8)	74	71		8.512	69		119.866
+"C2A domain of synaptotagmin I"	4166	1RSY (4)	100	115		8.407	115		121.156
+"C2A domain of synaptotagmin I"	4167	1RSY (4)	100	121		8.424	121		121.110
+"Alpha-2-macroglobulin receptor binding domain"	4168	1BV8 (2)	138	130		8.401	130		119.554
+"0.5b antibody Fv - V3 antigen"	4171	1QNZ (3)	112	208		8.396	208		119.695
+"0.5b antibody Fv - V3 antigen"	4171	1QNZ (3)	119	208		8.396	208		119.695
+"stromelysin-1 subunit 1"	4173	1UEA (52)	173	152		8.277	151		119.604
+"N-terminal domain of calmodulin"	4174	1IQ5 (47)	81	74		8.177	77		117.897
+"Monocyte chemoattractant protein-3"	4177	1BO0 (3)	76	71		8.228	71		119.503
+"DtxR subunit 3, C-terminal domain"	4183	1G3S (25)	109	94		8.406	94		118.433
+"eps15 homology domain"	4184	1EH2 (6)	95	84		8.164	84		117.518
+"CRABPII system"	4186	1BM5 (14)	137	118		8.580	118		120.862
+"C2 Domain of Cytosolic Phospholipase A2"	4188	1RLW (5)	138	127		8.619	127		121.830
+"Adenylate kinase/AP5A complex"	4193	1E4V (12)	214	202		8.136	202		118.611
+"M13 major coat protein"	4197	1IFD (12)	50	48		8.126	48		119.948
+"N-terminal domain of syntaxin 1A"	4198	1DN1 (6)	161	117		8.153	118		118.466
+"N-term linker Type III Antifreeze protein RD3"	4199	1C8A (6)	63	65		8.441	65		120.989
+"Superoxide Dismutase"	4202	1DSW (4)	153	140		8.472	139		119.024
+"Ets-1 Pointed"	4205	1BQV (2)	110	101		8.100	101		118.861
+"Ets-1 Pointed"	4206	2MFN (4)	184	165		8.460	165		118.618
+"CRO Repressor Insertion Mutant K56-[DGEVK]"	4207	1D1M (7)	71	66		8.437	68		102.706
+"M13 major coat protein"	4209	1IFD (12)	50	48		8.099	47		120.019
+"Tissue Inhibitor of Metalloproteinases-2 (TIMP-2)"	4214	1BR9 (4)	127	116		8.328	116		119.503
+"Tissue Inhibitor of Metalloproteinases-2 (TIMP-2)"	4215	1C79 (12)	136	123		8.422	123		122.176
+"streptomyces metalloproteinase inhibitor"	4217	1BHU (2)	102	93		8.296	93		120.225
+"Moloney Murine Leukemia Virus Capsid Protein"	4222	1KRL (7)	94	87		8.552	86		120.051
+"TATA box binding protein associated factor II 230"	4223	1TBA (2)	67	64		8.099	64		117.446
+"TATA box binding protein associated factor II 230"	4224	2MYO (4)	118	111		8.085	112		116.773
+"Glutaredoxin 3 system"	4225	1FOV (6)	83	77		8.288	77		118.440
+"lead-dependent ribozyme"	4227	1BQZ (4)	77	75		8.117	75		118.243
+"lead-dependent ribozyme"	4228	1BQZ (4)	103	86		8.137	86		118.619
+"3-ketosteroid isomerase-19-nortestosterone-hemisuccinate"	4230	1BUQ (2)	125	117		8.359	116		121.916
+"Calcium binding subunit of troponin, TnC monomer"	4232	1SMG (30)	90	176		8.270	176		118.905
+"DNA decamer"	4236	1HZZ (3)	203	182		8.303	182		118.112
+"MinE topological specificity domain"	4237	1EV0 (2)	58	54		8.355	52		121.337
+"f29-SSB bacteriophage"	4239	     (0)	124	89		8.370	87		116.799
+"Internal xylan binding domain from XYLD"	4241	1E5C (6)	87	86		8.535	84		119.229
+"Major Sperm Protein"	4242	1MSP (4)	126	115		8.393	115		126.920
+"Lymphoid enhancer-binding factor"	4248	2LEF (2)	86	83		8.010	82		119.244
+"Human NER factor XPA"	4249	1D4U (3)	122	109		8.221	109		120.452
+"Src homology domain 3 and 2"	4251	2ABL (3)	166	148		8.374	148		119.149
+"Abl SH(32) complex"	4252	2ABL (3)	166	151		8.384	151		118.603
+"T2 RNA Pseudoknot"	4254	1BM8 (3)	136	114		8.264	114		119.422
+"Eukaryotic translation initiation factor 1"	4255	2IF1 (2)	126	115		8.360	115		121.036
+"Eukaryotic translation initiation factor 1"	4256	1BM8 (3)	135	115		8.304	115		119.649
+"Eukaryotic translation initiation factor 1"	4259	1I8V (27)	97	91		8.410	89		118.039
+"DIHYDROFOLATE REDUCTASE"	4262	3DFR (10)	162	153		8.404	151		120.052
+"PTB domain of Drosophila Numb protein/GPpY_peptide complex"	4263	1DDM (4)	160	157		8.242	156		119.677
+"Phosphotransferase system, enzyme I"	4264	1CM2 (32)	259	659		8.180	659		118.933
+"Phosphotransferase system, enzyme I"	4264	1CM2 (32)	85	659		8.180	659		118.933
+"Dynein light chain 1"	4265	1DS9 (2)	199	191		8.196	191		120.184
+"apo-HNGAL Human Neutrophil Gelatinase-Associated Lipocalin"	4267	1DFV (4)	179	165		8.497	295		67.062
+"gamma delta resolvase catalytic core"	4269	1GDT (8)	105	98		8.354	98		119.565
+"Ca2+/calmodulin - 26-residue peptide from rat Ca2+/calmodulin dependent protein kinase kinase complex"	4270	1CKK (39)	148	166		8.187	144		118.373
+"Ca2+/calmodulin - 26-residue peptide from rat Ca2+/calmodulin dependent protein kinase kinase complex"	4271	1JFK (2)	134	131		8.223	131		122.327
+"synaptobrevinII cytoplasmic domain residues 1-96"	4272	1SFC (3)	96	86		8.138	86		120.482
+"Candidacidal Peptide Domain of MUC7"	4276	1B2I (2)	83	74		8.366	73		118.176
+"Candidacidal Peptide Domain of MUC7"	4278	1BQT (5)	83	75		7.993	75		118.143
+"Methyl binding domain of MeCP2"	4280	1QK9 (2)	92	86		8.334	86		119.066
+"Methyl binding domain of MeCP2"	4281	1EKT (2)	53	49		8.481	49		120.771
+"XRCC1 N-terminal domain"	4282	1XNT (4)	183	173		8.449	173		119.954
+"XRCC1 N-terminal domain"	4283	2FNB (2)	95	90		8.353	89		118.893
+"Calmodulin-Ca2+-Pump-Peptide Complex"	4284	1CFF (39)	148	155		8.133	139		117.983
+"S100A dimer"	4285	1K2H (1)	94	107		8.198	107		119.379
+"S100A dimer"	4286	     (0)	98	91		8.305	91		120.651
+"S100A dimer"	4287	1FIO (2)	268	76		8.372	76		120.534
+"S100A dimer"	4288	     (0)	105	94		8.283	94		117.839
+"C-terminal domain of bacteriophage P22 scaffolding protein"	4289	2GP8 (2)	67	62		8.232	62		118.203
+"DNase domain of colicin E9"	4293	1BXI (4)	134	154		8.204	154		118.610
+"human MBF1(57-148) core domain"	4294	     (0)	92	79		8.142	79		120.640
+"Titin type I domain"	4295	1BPV (2)	112	93		8.241	91		120.553
+"Major cold shock protein from E. coli"	4296	1MJC (4)	70	66		8.357	66		118.886
+"DnaB helicase N-terminal domain"	4297	1B79 (3)	114	103		8.021	103		117.850
+"6-hydroxymethyl-7,8-dihydropterin pyrophosphokinase"	4299	1HKA (9)	158	127		8.218	127		120.940
+"HPPK-AMPPCP complex"	4300	1HKA (9)	158	137		8.278	139		118.744
+"Pathogenesis-related Protein P14a"	4301	1CFE (2)	135	129		8.139	128		118.244
+"protein disulfide isomerase a' domain"	4302	     (0)	115	108		8.265	107		120.304
+"neuronal nitric oxide synthase PDZ domain complexed with a peptide"	4304	1QAV (4)	127	114		8.449	114		120.216
+"protein inhibitor of neuronal nitric oxide synthase"	4305	1F96 (6)	89	87		8.409	87		121.165
+"Polyandrocarpa lectin"	4306	1SMT (2)	121	112		8.130	114		118.863
+"Recombinant Syrian hamster prion protein"	4307	1B10 (2)	142	136		8.273	136		118.673
+"cytokine receptor common beta chain domain 4"	4308	1GH7 (4)	102	94		8.527	93		120.404
+"cytokine receptor common beta chain domain 4"	4309	1B2V (6)	178	172		8.364	172		119.631
+"calmodulin:SL3 Enhancer Factor2-1 complex"	4310	1DEG (22)	148	165		8.261	144		118.667
+"human T-cell leukemia virus type I capsid monomer"	4311	1QRJ (2)	214	384		8.127	383		118.740
+"human T-cell leukemia virus type I capsid monomer"	4312	1B91 (2)	118	101		8.045	101		118.726
+"human T-cell leukemia virus type I capsid monomer"	4313	     (0)	180	141		8.315	142		95.450
+"Iron-containing superoxide dismutase"	4315	1ISB (6)	192	95		8.114	95		117.922
+"subunit c of ATP synthase"	4316	     (0)	89	85		8.025	85		117.825
+"NS1(1-73) dimer"	4317	1NS1 (4)	73	71		8.162	71		119.218
+"glutaredoxin 2"	4318	1G7O (1)	215	191		8.175	191		118.884
+"p55 monomer in complex with CoA"	4321	1QST (8)	166	156		8.363	156		120.241
+"outer surface protein C"	4323	1GGQ (1)	174	168		8.199	168		119.851
+"B domain of protein A"	4324	2SPZ (6)	58	54		8.164	54		118.878
+"N-Terminal Domain of DNA Polymerase B"	4326	9ICL (198)	87	77		8.079	77		122.391
+"N-terminal inhibitory domain of human tissue inhibitor of metalloproteinases-1"	4327	1UEA (4)	126	114		8.353	114		120.126
+"N-terminal domain of HsRad51"	4328	1B22 (2)	114	110		8.162	111		121.536
+"E.coli Transhydrogenase domain III"	4329	     (0)	186	164		8.213	164		118.397
+"ALPHA-BETA T CELL RECEPTOR (TCR) (D10)"	4330	1BWM (2)	249	210		8.480	209		120.023
+"Streptomyces subtilisin inhibitor"	4331	5SIC (10)	113	98		8.341	98		118.858
+"bovine alpha-lactalbumin"	4332	     (0)	124	118		8.168	118		118.757
+"FADD death domain"	4333	1E41 (4)	104	97		8.031	99		119.538
+"ARID domain of dead-ringer protein"	4334	1KQQ (3)	139	132		8.074	131		118.395
+"ARID domain of dead-ringer protein"	4335	     (0)	176	166		8.133	166		119.253
+"methylamine loaded form of the Glycine Cleavage System H-protein"	4336	1HPC (6)	131	123		8.295	123		117.808
+"Oxidized form of the glycine cleavage system H-protein"	4337	1HPC (6)	131	119		8.265	119		117.810
+"Glycine Cleavage system apoprotein H"	4338	1HPC (6)	131	119		8.279	119		117.788
+"FL30 PROTEIN"	4339	1CN7 (14)	104	101		8.299	101		119.010
+"interleukin 1-beta"	434	31BI (26)	153	142		8.553	144		105.738
+"major urinary protein"	4340	1MUP (8)	162	157		8.441	158		120.293
+"Iron-containing superoxide dismutase"	4341	1ISB (6)	192	117		8.275	117		117.102
+"Iron-containing superoxide dismutase"	4342	1EKG (4)	130	119		8.241	117		121.740
+"Iron-containing superoxide dismutase"	4344	1CPZ (2)	68	66		8.351	66		120.150
+"L30-MRNA COMPLEX"	4345	1CN7 (14)	104	101		8.250	101		119.415
+"Nitrogen Regulatory protein C-C-term-3Ala"	4348	1NTC (2)	91	74		8.115	75		100.867
+"Fv fragment of the catalytic antibody NPN43C9"	4349	43CA (6)	113	195		8.454	195		115.721
+"Fv fragment of the catalytic antibody NPN43C9"	4349	43CA (6)	117	195		8.454	195		115.721
+"interleukin 1-beta"	435	31BI (26)	152	141		8.551	144		106.624
+"Adenylate kinase from E. coli"	4350	1E4V (12)	214	190		8.153	189		119.144
+"Inhibitor (Im9)-bound DNase domain of colicin E9"	4352	1IMP (8)	134	155		8.215	155		118.440
+"Inhibitor (Im9)-bound DNase domain of colicin E9"	4352	1IMP (8)	86	155		8.215	155		118.440
+"p13 c-terminal domain"	4353	     (0)	126	98		8.352	98		119.241
+"E. coli maltose binding protein"	4354	1JVY (36)	370	330		8.126	330		118.283
+"HIV-1 protease tethered dimer"	4356	1G6L (2)	203	173		8.392	173		119.626
+"Pbx1 homeodomain"	4358	1B72 (2)	87	71		8.133	71		119.074
+"Pbx1 homeodomain"	4359	1B72 (4)	87	74		8.962	74		118.650
+"cytochrome c"	4360	3RPB (2)	140	136		8.397	136		118.147
+"stromelysin-ligand complexes"	4364	1C8T (52)	166	142		8.215	160		106.692
+"stromelysin-ligand complexes"	4367	     (0)	280	277		8.502	277		121.121
+"A35T vnd/NK2 mutant homeodomain"	4368	1NK3 (8)	80	75		8.213	75		119.916
+"A35T vnd/NK2 mutant homeodomain"	4369	1FKA (25)	93	67		8.250	67		121.241
+"Human Pancreatic Ribonuclease"	4370	1E21 (1)	128	121		8.403	119		119.497
+"Recombinant Onconase/P30 protein"	4371	1ONC (2)	105	100		8.314	100		119.492
+"UNC-89 PH domain"	4373	1FHO (2)	112	97		8.416	97		122.231
+"Sml1 protein"	4374	     (0)	104	96		8.364	96		120.298
+"Sml1 protein"	4375	1F9J (9)	76	71		8.349	71		120.224
+"VATN VCP-like ATPase of Thermoplasma N-domain"	4376	1CZ5 (4)	185	173		8.615	182		113.861
+"calcium loaded un-myristoylated rat frequenin"	4378	1G8I (1)	190	178		8.287	178		119.182
+"human prion protein fragment 121-230"	4379	1FKC (23)	112	104		8.264	104		118.446
+"Epithelial Cadherin"	4380	1FF5 (6)	146	133		8.423	133		120.979
+"Third EH domain of human Eps15"	4381	1C07 (2)	104	87		8.132	87		118.806
+"Third EH domain of human Eps15"	4382	1H7V (3)	70	64		8.390	63		120.742
+"Capsid protein from Rous Sarcoma Virus"	4384	1EM9 (3)	262	221		8.089	221		118.465
+"elongation factor-1beta"	4385	1GH8 (2)	109	85		8.449	85		120.960
+"REGULATOR OF G-PROTEIN SIGNALING 4"	4386	1AGR (4)	166	154		8.084	154		119.049
+"Cyclic AMP Receptor Protein dimer"	4388	1RUO (17)	209	191		8.263	191		119.577
+"Ribosome Recycling Factor"	4389	     (0)	185	173		8.261	173		119.631
+"CC-chemokine eotaxin"	4391	1JGK (1)	66	65		8.448	59		123.234
+"DNA minor groove binder"	4393	     (0)	156	149		8.068	149		118.855
+"TRANSLATION INITIATION FACTOR IF3"	4394	2IFE (2)	180	86		8.499	86		118.045
+"RIBOSOMAL PROTEIN L25"	4395	1B75 (9)	94	84		8.456	84		122.610
+"Nematode Anticoagulant Protein c2"	4396	1COU (2)	85	78		8.388	78		120.540
+"Nematode Anticoagulant Protein c2"	4397	1F2L (4)	77	74		8.262	74		120.051
+"skeletal N-troponin C"	4401	1SMG (30)	90	85		8.201	85		118.477
+"skeletal N-troponin C"	4401	1SMG (30)	53	85		8.201	85		118.477
+"human prion protein hPrP(23-230)"	4402	1QM0 (11)	210	190		8.270	202		117.401
+"Polyomavirus J domain"	4403	1FAF (1)	85	76		8.159	76		115.571
+"hnRNP K"	4405	1KHM (2)	89	82		8.336	82		118.604
+"Gaip protein"	4407	1CMZ (2)	153	115		7.985	115		118.211
+"transforming growth factor beta3"	4411	1TGK (5)	112	88		8.337	88		119.631
+"DNA (5'-D(*CP*GP*CP*AP*TP*+TP*AP*CP*GP*C)- 3')"	4413	1DXS (3)	89	65		8.027	65		119.829
+"Major Pollen Allergen Bet v 1-L"	4417	1BTV (8)	159	149		8.384	146		120.295
+"PhoB DNA-binding domain"	4421	1QQI (1)	104	95		8.398	94		120.113
+"ribonuclease HI"	4424	1QHK (2)	63	58		8.258	58		120.490
+"ACETYL-COA CARBOXYLASE"	4425	3BDO (8)	80	77		8.479	77		120.030
+"ACETYL-COA CARBOXYLASE"	4426	3BDO (8)	82	77		8.496	77		120.011
+"HEADPIECE DOMAIN FROM CHICKEN VILLIN"	4428	1VII (3)	67	62		8.067	61		121.772
+"ribosomal protein L7 from E. coli"	4429	1CTF (2)	120	118		8.268	118		121.347
+"CALCYCLIN (RABBIT)"	4430	2CNP (7)	90	88		8.154	86		118.751
+"methane monooxygenase regulatory protein B"	4431	1CKV (2)	141	134		8.195	134		119.577
+"Human prion protein fragment 90-230"	4434	1QLX (21)	143	133		8.285	133		118.516
+"MEROZOITE SURFACE PROTEIN 1"	4437	1CEJ (2)	96	87		8.563	87		119.736
+"Sterol carrier protein 2See"	4438	1QND (2)	123	115		8.299	115		118.357
+"Anabaena 7120 vegetative Ferredoxin"	4444	1E10 (2)	128	106		8.290	106		120.398
+"HRDC domain"	4445	1D8B (2)	91	153		8.057	152		118.707
+"HRDC domain"	4447	1H7Y (2)	168	161		8.327	161		119.296
+"Diadenosine 5',5'''-P1,P4 tetraphosphate hydrolase"	4448	1JKN (2)	165	147		8.294	147		120.519
+"antifreeze protein type III intramolecular dimer RD3"	4449	3RDN (6)	134	123		8.432	123		120.747
+"Inhibitory Prodomain of Furin"	4450	     (0)	108	85		8.194	85		119.775
+"N-terminal domain of caspase-activated DNase"	4451	1C9F (4)	87	82		8.388	82		120.262
+"sea raven Type II antifreeze protein"	4452	2AFP (2)	129	119		8.345	117		119.416
+"alpha-actinin/titin complex"	4453	1H8B (2)	75	66		8.002	65		118.698
+"alpha-actinin/titin complex"	4453	1H8B (2)	53	66		8.002	65		118.698
+"alpha-actinin/titin complex"	4454	1H8B (2)	75	31		8.068	31		119.232
+"alpha-actinin/titin complex"	4454	1H8B (2)	51	31		8.068	31		119.232
+"CD58 adhesion domain, 1dCD58"	4455	1CI5 (4)	95	87		8.497	87		119.837
+"aIIb cytoplasmic domain"	4457	1EDH (2)	227	167		8.320	167		120.561
+"Replication Protein A 32kDa subunit"	4460	1DPU (2)	103	90		8.207	90		118.343
+"Ras-binding domain of Byr2"	4463	1I35 (2)	116	102		8.389	103		117.948
+"His117Gly azurin"	4465	1ILS (40)	128	123		8.285	123		118.247
+"Cu(I) Pseudoazurin"	4466	1ADW (2)	123	113		8.416	113		118.965
+"chicken MeCP2/ARBP monomer"	4467	1QK9 (3)	125	109		8.362	109		95.661
+"2Fe-2S ferredoxin"	447	1QOG (18)	98	76		8.493	80		111.341
+"2Fe-2S ferredoxin"	4470	1F0Z (1)	66	63		8.474	63		120.294
+"cytochrome c552"	4471	1QL4 (5)	100	94		8.108	93		118.553
+"BeFx-activated CheY from E. coli"	4472	1AB5 (51)	129	121		8.327	122		107.038
+"PKD1 HUMAN"	4478	1B4R (2)	91	79		8.401	79		120.578
+"METHANE MONOOXYGENASE REGULATORY PROTEIN B"	4486	2MOB (2)	138	121		8.333	121		119.682
+"alpha-amylase inhibitor"	4491	1QJT (2)	120	111		8.171	111		118.683
+"guanylate cyclase activating protein 2"	4492	1JBA (2)	204	185		8.169	185		119.526
+"Ubiquitin core mutant 1D7"	4493	1UD7 (2)	76	72		8.403	72		119.722
+"Ubiquitin core mutant 1D7"	4494	3LRI (6)	83	76		8.098	76		119.999
+"Ubiquitin core mutant 1D7"	4496	1OM2 (2)	95	88		8.033	88		118.414
+"Heat shock cognate 70 kd protein 1"	4497	1CKR (4)	161	153		8.501	153		121.645
+"GAG MPMV"	4498	1CL4 (2)	61	49		8.184	49		119.227
+"The Second Fibronectin Type II Module From Human Matrix Metalloproteinase 2"	4510	1CK7 (4)	60	56		8.357	56		117.027
+"HUMAN PHOSPHATASE HPTP1E/PEPTIDE"	4516	3PDZ (2)	96	90		8.511	89		119.015
+"Translation initiation factor 1A"	4519	1D7Q (2)	157	125		8.421	125		119.947
+"Endoglucanase SS  dockerin domain"	4524	1DAV (3)	71	63		8.047	63		118.246
+"NITROGEN REGULATION PROTEIN"	4527	1DC8 (6)	124	111		8.284	106		119.704
+"NITROGEN REGULATION PROTEIN C"	4528	1DC8 (6)	124	108		8.343	107		119.556
+"ARC repressor"	4540	1QTG (2)	64	54		8.364	54		119.306
+"Inserted domain of the leukocyte function associated antigen-1 in the presence of magnesium"	4553	1ZON (12)	189	181		8.166	179		120.789
+"Dihydrofolate reductase complex with NADPH cofactor"	4554	1DHJ (84)	159	147		8.377	147		119.568
+"YopH-NT monomer"	4558	1HUF (2)	136	124		8.212	123		120.930
+"mouse mammary tumor virus nucleocapsid protein"	4559	1DSV (2)	60	42		8.244	42		119.002
+"mouse mammary tumor virus nucleocapsid protein"	4560	1G11 (2)	102	95		8.474	95		121.450
+"Bovine prion protein fragment 121-230"	4563	1DX1 (8)	112	105		8.280	104		118.383
+"Bovine prion protein fragment 23-230"	4564	1DX1 (2)	264	199		8.289	198		117.205
+"truncated catalytic domain of matrix metalloproteinase-2"	4565	1CK7 (2)	163	142		8.173	143		118.940
+"bovine adrenodoxin"	4566	1AYF (4)	128	100		8.312	99		119.869
+"catalytic domain of yUBC1"	4567	1FZY (2)	151	127		8.266	127		119.674
+"catalytic domain of yUBC1"	4568	1MLG (254)	153	149		8.007	149		119.147
+"catalytic domain of yUBC1"	4571	1EF4 (1)	58	49		7.974	49		118.854
+"PBX homeodomain"	4572	1DU6 (2)	75	61		8.235	60		118.575
+"CIDE-N DOMAIN OF HUMAN CIDE-B"	4574	1D4B (2)	122	107		8.209	107		118.941
+"N-terminal 24 kDa fragment of gyrase B"	4575	     (0)	211	202		8.248	202		118.623
+"RIBOSOMAL PROTEIN S4 DELTA 41"	4577	1QD7 (8)	159	150		8.175	150		118.760
+"Pseudomonas aeruginosa cytochrome c-551"	4578	1DVV (2)	82	75		8.094	75		119.199
+"FYVE domain of EEA1"	4579	1HYJ (3)	86	83		8.291	83		119.885
+"anti-dansyl Fv fragment"	4580	2DLF (6)	124	223		8.399	224		120.557
+"anti-dansyl Fv fragment"	4580	2DLF (6)	113	223		8.399	224		120.557
+"CALBINDIN D9K"	4581	1KQV (4)	75	72		8.193	70		118.479
+"RNA POLYMERASE ALPHA SUBUNIT (2.7.7.-)"	4583	1DOQ (2)	82	76		8.087	82		121.241
+"DNA BINDING DOMAIN OF THE TRAM PROTEIN"	4584	1DP3 (2)	55	54		8.147	54		119.545
+"Viscotoxin A3 from Viscum album L."	4588	1ED7 (2)	59	40		8.377	40		120.499
+"scaffoldin protein"	4589	1EHX (2)	94	86		8.415	86		120.077
+"scaffoldin protein"	4590	1EIH (3)	73	67		8.258	67		119.733
+"Rous sarcoma virus capsid protein: C-terminal domain"	4593	1EOQ (2)	96	68		8.131	68		118.691
+"heat shock cognate 70 kd protein 1"	4599	1CKR (3)	161	153		8.501	153		121.645
+"GAG Polyprotein"	4600	1CL4 (2)	60	48		8.193	48		119.177
+"CYTOCHROME B5"	4602	1DO9 (2)	94	83		8.350	70		125.977
+"APO-D-ALANYL CARRIER PROTEIN"	4603	1HQB (3)	80	77		8.076	77		118.326
+"Human immunodeficiency virus type 2 integrase"	4619	1E0E (1)	55	52		8.073	52		119.439
+"prion protein"	4620	1QM0 (19)	112	104		8.296	104		118.366
+"prion protein"	4621	1E4U (2)	89	77		8.211	77		120.035
+"UvrB C-terminal domain"	4622	1E52 (2)	63	53		8.155	53		119.831
+"XYLANASE D"	4623	2XBD (6)	87	85		8.486	84		118.832
+"Tumor necrosis factor receptor type 1 associated death domain protein"	4636	1F3V (3)	169	156		8.288	156		120.186
+"MATING-TYPE PROTEIN A-1"	4637	1AKH (4)	61	58		8.134	58		121.534
+"MNEI, A SINGLE CHAIN SWEET PROTEIN"	4638	3MON (4)	96	90		8.570	90		120.796
+"HUMAN PRION PROTEIN (MUTANT E200K)"	4641	1E1J (14)	146	135		8.288	135		118.681
+"Phosphoglycerate Mutase (E.C.5.4.2.1)"	4648	1FZT (2)	211	194		8.182	188		118.695
+"HTLV-I CAPSID PROTEIN"	4649	1QRJ (3)	134	121		8.126	121		119.103
+"Apoptotic protease activating factor 1"	4661	1CY5 (10)	97	90		7.904	90		118.021
+"protein (1D8 UBIQUITIN) mutant (I3L,I13L,L15V,V17L,I23V,V26L,I61L,L67I)"	4663	1C3T (2)	76	72		8.380	72		119.599
+"lipocalin Q83"	4664	     (0)	157	138		8.345	138		120.953
+"transcarboxylase 1.3S subunit"	4666	1DD2 (4)	77	74		8.562	74		119.747
+"FK506 binding protein from Methanococcus thermolithotrophicus"	4668	     (0)	151	144		8.497	144		120.532
+"HEPATITIS C CAPSID PROTEIN"	4670	     (0)	120	102		8.456	103		118.616
+"Pru a 1"	4671	1E09 (1)	159	147		8.323	147		119.351
+"DNA binding domain of AFX transcription factor"	4675	1E17 (2)	150	122		8.141	122		118.362
+"apomyoglobin pH 2.3"	4676	1MLG (131)	153	147		8.245	147		120.637
+"cysteine-rich domain of DnaJ Chaperone"	4677	1EXK (1)	79	71		8.419	71		120.499
+"cysteine-rich domain of DnaJ Chaperone"	4678	1EIK (2)	77	70		8.341	70		124.524
+"Human Collagenase-3"	4679	1FM1 (7)	165	137		8.358	137		119.113
+"C-terminal domain of MLTD"	4680	1E0G (4)	65	60		8.283	59		119.553
+"Rat apo-cellular retinol-binding protein II"	4681	1B4M (8)	134	283		8.684	287		124.967
+"Rat holo-cellular retinol-binding protein II"	4682	1B4M (8)	134	264		8.650	264		124.974
+"dNumb PTB"	4683	1DDM (4)	171	161		8.259	155		119.791
+"cyclic oligonucleotide d<pCATTCATT>"	4688	     (0)	111	102		8.253	102		120.431
+"Human Growth Hormone"	4689	1HWH (4)	191	248		8.141	356		83.130
+"myoglobin H64F mutant"	4695	103M (131)	153	147		8.013	147		118.016
+"fMet-tRNA binding domain of initiation factor IF2"	4697	1D1N (1)	99	110		8.437	110		122.009
+"Transforming Growth Factor Beta type II receptor"	4698	     (0)	122	108		8.332	108		120.469
+"Cdc42 + fragment of PAK"	4700	1F3M (23)	185	208		8.314	208		117.956
+"mouse p15(INK4B) tumor suppressor"	4701	1D9S (2)	136	119		8.142	118		119.381
+"xylanase"	4704	1BCX (16)	185	177		8.309	177		120.945
+"xylanase"	4705	1BCX (16)	185	172		8.315	172		120.930
+"CELLULOSE BINDING DOMAIN N2 FROM C. FIMI ENDOGLUCANASE C"	4706	1CX1 (1)	153	138		8.369	138		120.660
+"WT1 zinc finger domain"	4707	     (0)	119	110		8.189	110		119.795
+"WT1 zinc finger domain DNA complex"	4708	     (0)	119	108		8.146	108		119.719
+"WT1 zinc finger domain"	4709	     (0)	122	113		8.194	113		119.759
+"WT1 zinc finger domain"	4710	     (0)	122	97		8.167	97		119.611
+"RNA-binding protein"	4711	     (0)	101	96		8.269	96		118.265
+"newt acidic FGF"	4712	1FMM (1)	132	123		8.428	123		119.365
+"YQJ8 WW domain"	4716	     (0)	182	150		8.104	150		119.527
+"C-terminal FtsZ binding domain of E. coli ZipA"	4717	1F46 (4)	144	135		8.379	135		119.010
+"replication terminator protein"	4718	1BM9 (3)	122	116		8.155	116		119.501
+"Ras binding domain of rat AF6"	4719	     (0)	141	124		8.357	124		119.746
+"Inhibitor-2 monomer"	4720	     (0)	173	162		8.163	162		120.095
+"general transcription factor TFIIE-BETA"	4721	1D8K (4)	81	76		8.236	75		118.853
+"Shikimate Kinase"	4722	     (0)	168	160		8.181	160		119.691
+"TFIIS domain I"	4726	1EO0 (1)	114	76		8.092	76		117.714
+"TFIIS domain I"	4727	1I97 (17)	88	78		8.327	77		120.075
+"EGF-like module pair 3-4 from human vitamin K-dependent protein S"	4729	     (0)	89	164		8.311	162		119.690
+"human melanoma inhibitory activity (MIA) protein"	4731	1HJD (2)	108	95		8.410	95		120.456
+"High mobility group protein of Drosophila"	4732	1HMA (6)	112	79		8.138	82		119.651
+"High mobility group protein of Drosophila complexed to a bulge DNA"	4734	1HMA (6)	112	74		8.146	74		119.423
+"olfactory marker protein"	4735	1JOB (2)	163	150		8.385	150		120.923
+"human prion protein variant M166V"	4736	1QM0 (19)	112	104		8.269	104		118.403
+"human prion protein variant M166V"	4737	1BAQ (4)	139	123		8.145	123		117.095
+"Calcium Vector Protein"	4739	1C7W (4)	81	77		8.179	76		117.392
+"MTH1184 monomer"	4740	1GH9 (1)	71	68		8.265	68		121.174
+"Glucogen-like Peptide-1(7-36)-amide"	4742	1ED7 (2)	59	40		8.377	40		120.499
+"Ac-GGXGG-NH2 pentapeptides"	4748	1EQK (1)	102	97		8.395	90		120.949
+"mouse lysozyme"	4751	     (0)	130	127		8.196	127		118.222
+"mouse lysozyme"	4752	     (0)	68	66		8.207	66		119.675
+"cytochrome b562"	4759	1QQ3 (8)	106	89		8.065	89		118.192
+"cytochrome c'"	4761	1CPR (5)	129	125		8.127	125		120.156
+"E.Coli peptidyl-prolyl cis-trans isomerase b"	4765	1LOP (4)	164	160		8.407	159		120.806
+"E.Coli peptidyl-prolyl cis-trans isomerase b"	4766	1DDW (3)	188	165		8.203	165		121.664
+"human parvulin 14"	4768	1EQ3 (3)	131	92		8.372	92		118.454
+"yeast ubiquitin"	4769	     (0)	76	68		8.371	68		119.373
+"yeast ubiquitin"	4771	     (0)	106	90		8.101	90		119.349
+"RBPMS trimer"	4772	1bny (1)	111	85		8.295	85		119.901
+"OspA N-terminal fragment"	4773	1OSP (3)	144	138		8.540	138		121.160
+"SPINDLE ASSEMBLY CHECKPOINT PROTEIN MAD2"	4775	1KLQ (3)	187	177		8.314	176		119.926
+"Sud dimer"	4776	     (0)	137	117		8.209	117		119.235
+"cytochrome c552"	4777	1QL4 (5)	100	94		8.334	93		118.757
+"Ligand Binding Domain of the Human TGF-beta type II receptor"	4779	1KTZ (1)	122	104		8.470	104		120.189
+"SL2 stem loop RNA from HIV-1"	4781	1MFS (4)	55	51		8.388	50		120.243
+"Polyandrocarpa lectin"	4782	1TLG (4)	125	117		8.338	120		116.697
+"Tyrosine repressor"	4784	1G2H (1)	61	58		8.115	59		118.813
+"Bleomycin resistance protein of S. hindustanus"	4785	1BYL (2)	124	115		8.286	115		119.465
+"Bleomycin resistance protein of S. hindustanus"	4786	1BYL (2)	124	117		8.275	117		119.619
+"Apical Membrane Antigen 1"	4787	     (0)	122	95		8.349	95		120.812
+"Reps1 EH domain"	4788	1FI6 (1)	97	84		8.287	84		118.797
+"TAZ2 domain of CBP"	4789	1F81 (2)	87	82		8.133	82		119.872
+"SNT PTB domain"	4790	     (0)	118	118		7.815	100		119.537
+"HCV NS3 RNA helicase"	4791	     (0)	142	130		8.221	130		118.999
+"ParD dimer"	4792	     (0)	83	78		8.190	79		119.086
+"HYPOTHETICAL PROTEIN MTH538"	4793	1EIW (2)	132	103		8.184	103		119.157
+"human wild type gelsolin domain 2"	4794	1KCQ (1)	116	105		8.389	105		120.487
+"human D187N gelsolin domain 2"	4795	1KCQ (1)	116	94		8.338	94		120.497
+"HYPOTHETICAL PROTEIN MTH1175"	4796	1EO1 (2)	144	115		8.305	115		118.803
+"EqtII monomer"	4797	1IAZ (2)	179	166		8.468	164		118.769
+"yeast frequenin"	4798	1FPW (1)	190	114		8.171	114		117.999
+"N-terminal domain of H-NS"	4802	     (0)	64	62		8.135	62		119.524
+"bovine ferrous cytochrome b5"	4803	1ES1 (8)	82	79		8.159	79		118.761
+"bovine ferrous cytochrome b5-N17D"	4804	1EHB (6)	82	79		8.160	79		118.657
+"bovine ferrous cytochrome b5-N17D"	4805	1HRC (18)	82	76		8.467	76		118.907
+"bovine ferrous cytochrome b5-N17D"	4805	1HRC (18)	104	76		8.467	76		118.907
+"bovine ferric cytochrome b5"	4806	1ES1 (8)	82	76		8.472	76		118.993
+"bovine ferric cytochrome b5-N17D"	4807	1EHB (6)	82	76		8.466	76		118.909
+"ferrous cytochrome b5 complexed with ferrous cytochrome c"	4808	1HRC (18)	82	78		8.151	78		118.707
+"ferrous cytochrome b5 complexed with ferrous cytochrome c"	4808	1HRC (18)	104	78		8.151	78		118.707
+"ferrous cytochrome b5 complexed with ferrous cytochrome c"	4809	1HRC (18)	82	78		8.149	78		118.696
+"ferrous cytochrome b5 complexed with ferrous cytochrome c"	4809	1HRC (18)	104	78		8.149	78		118.696
+"bovine ferric cytochrome b5 in complex with ferric horse heart cytochrome c"	4810	1HRC (20)	82	75		8.475	75		118.871
+"bovine ferric cytochrome b5 in complex with ferric horse heart cytochrome c"	4810	1HRC (20)	104	75		8.475	75		118.871
+"apo bovine alpha-lactalbumin"	4811	1hfz (1)	124	115		8.184	115		118.409
+"LAC REPRESSOR HP62/DNA COMPLEX"	4813	1EFA (19)	62	59		8.079	58		118.810
+"Locust apolipophorin-III"	4814	1AEP (1)	164	159		8.114	159		119.163
+"Mj0307 reduced form"	4817	1FO5 (1)	85	72		9.915	72		118.329
+"N-Terminal Domain of MKP-3"	4818	1HZM (1)	154	148		8.236	148		119.244
+"Yhh monomer"	4819	1DCJ (1)	81	71		8.446	71		117.882
+"Pheromone Er-22"	4821	     (0)	157	133		8.294	133		119.581
+"Recombinant RC-RNase 2"	4825	     (0)	106	99		8.341	99		119.437
+"cystatin A"	4827	1GD4 (6)	97	91		8.343	91		121.114
+"cystatin A P25S"	4828	1CYV (4)	97	92		8.365	92		121.135
+"Interleukin enhancer binding factor"	4829	     (0)	98	86		8.199	86		117.744
+"fibronectin fragment 6f11f22f2"	4830	1QO6 (3)	160	155		8.421	155		117.900
+"Antifungal protein from Streptomyces tendae Tu901"	4833	1GH5 (2)	87	79		8.488	79		120.524
+"S. aureus peptide deformylase"	4834	     (0)	189	166		8.345	166		119.357
+"Hepatitis A 3C Protease monomer"	4836	1QA7 (3)	217	206		8.365	206		118.961
+"Rous sarcoma virus protease delta LAM mutant"	4839	1MVP (2)	121	107		8.447	103		119.453
+"Adenylate kinase"	4840	     (0)	181	168		8.220	168		119.678
+"mSin3B-PAH2 complexed to Mad1"	4841	1E91 (1)	105	115		8.177	102		118.898
+"PORCINE PEPTIDE YY"	4843	1GA3 (1)	113	105		8.227	105		117.478
+"methionine sulfoxide reductase"	4844	     (0)	221	198		8.133	198		120.536
+"N-terminal domain of 5-enolpyruvyl shikimate-3-phosphate synthase"	4848	1EPS (4)	240	217		8.188	218		119.278
+"N-terminal domain of 5-enolpyruvyl shikimate-3-phosphate synthase"	4849	1DQE (2)	142	138		8.056	138		118.537
+"basic pancreatic trypsin inhibitor"	485	4TPI (64)	58	51		8.149	52		116.760
+"GLUTAREDOXIN 3"	4850	3GRX (3)	82	76		8.357	74		118.374
+"CDC4P from Schizosaccharomyces pombe"	4851	1GGW (2)	141	131		8.148	131		118.146
+"vMIP-II monomer"	4852	1CM9 (6)	74	68		8.164	64		122.956
+"N-terminal domain of 5-enolpyruvyl shikimate-3-phosphate synthase"	4854	1EPS (4)	240	190		8.155	195		119.479
+"S100A2 homodimer"	4856	     (0)	97	172		8.133	170		118.487
+"S100A2 homodimer"	4857	1BDJ (7)	125	117		8.119	117		118.703
+"NUCLEOLIN RBD1"	4858	1FJ7 (2)	101	96		8.222	93		117.765
+"Lck unique SH3"	4860	1LCK (1)	126	108		8.353	108		119.756
+"NUCLEOLIN RBD2"	4863	1FJE (3)	96	90		8.355	90		118.790
+"Turkey Ovomucoid Third Domain"	4864	1SGQ (19)	56	46		8.424	46		119.922
+"Turkey Ovomucoid Third Domain bound to bovine chymotrypsin Aa"	4865	1GMH (63)	56	44		8.380	44		119.691
+"Turkey Ovomucoid Third Domain bound to bovine chymotrypsin Aa"	4865	1GMH (63)	241	44		8.380	44		119.691
+"Turkey Ovomucoid Third Domain bound to bovine chymotrypsin Aa"	4866	     (0)	147	128		8.298	128		119.502
+"NUCLEOLIN RBD12/RNA COMPLEX"	4867	1FJE (2)	175	168		8.226	167		118.431
+"NON HISTONE PROTEIN 6 A"	4869	1CG7 (2)	93	75		8.061	75		118.928
+"region 4.2 of sigma70 of E. coli RNA polymerase holoenzyme"	4870	     (0)	107	105		8.204	105		120.177
+"region 4.2 of sigma70 of E. coli RNA polymerase holoenzyme"	4871	     (0)	170	150		8.370	150		119.590
+"(30-51)Ser BPTI folding intermediate"	4873	     (0)	59	54		8.356	54		120.965
+"mSin3B-PAH2 free state"	4874	1E91 (1)	105	102		8.196	102		118.966
+"Ca2+-bound state of canine milk lysozyme"	4876	1QQY (4)	130	125		8.207	125		118.438
+"Calreticulin P-domain"	4878	1HHN (1)	100	82		8.164	81		120.848
+"Calreticulin P-domain"	4879	1IJA (1)	148	135		8.391	134		120.648
+"calponin CH domain"	4880	1H67 (1)	108	99		8.233	99		118.596
+"Azotobacter vinelandii C69A holoflavodoxin II"	4881	     (0)	179	172		8.260	172		118.485
+"canine milk lysozyme"	4883	1QQY (4)	130	126		8.140	126		118.194
+"1st LIM domain of PINCH protein"	4884	1G47 (1)	77	62		8.387	62		122.070
+"HCV NS3 RNA helicase"	4885	1A1V (2)	144	119		8.185	119		118.649
+"Azotobacter vinelandii C69A apoflavodoxin II"	4886	     (0)	179	134		8.191	134		118.657
+"canine milk lysozyme"	4887	1QQY (4)	130	126		8.141	126		118.298
+"c-Src SH3 monomer"	4888	1KSW (14)	72	70		8.405	70		117.387
+"c-Src SH3 RLP2 peptide complex"	4889	1KSW (14)	72	69		8.403	70		117.346
+"S100A4 dimer"	4892	     (0)	101	1		10.130	85		119.437
+"Recombinant RC-RNase 4"	4893	     (0)	107	99		8.355	99		119.623
+"MATERNAL EFFECT PROTEIN (STAUFEN)/RNA COMPLEX"	4894	1STU (4)	90	73		8.382	70		118.943
+"MATERNAL EFFECT PROTEIN (STAUFEN)/RNA COMPLEX"	4895	1G6P (2)	66	61		8.386	64		110.888
+"response-regulator protein CheY2"	4896	     (0)	129	118		8.286	118		119.064
+"Pilus Associated with Pyelonephritis subunit G"	4897	entr (2)	198	184		8.484	184		119.567
+"complex of the FYVE domain of EEA1 with PtdIns3P"	4898	1HYJ (3)	86	83		8.297	84		119.753
+"SMN tudor domain"	4899	file (3)	91	55		8.449	55		116.975
+"C-terminal xylan binding module"	4900	1HEJ (4)	88	86		8.598	83		118.978
+"p62 N-terminal domain"	4901	     (0)	110	100		8.495	101		120.469
+"SH2 domain of Human Protein Tyrosine Kinase 6"	4902	     (0)	100	96		8.242	96		118.590
+"G88W110 fragment of staphylococcal nuclease"	4905	1SNM (51)	110	104		8.269	104		121.406
+"a'-domain of ERp57"	4908	     (0)	120	96		8.343	95		121.132
+"human galectin-3"	4909	1A3K (2)	143	126		8.544	124		121.304
+"LEKTI domain one"	4910	1HDL (2)	55	95		8.141	46		119.381
+"DYNEIN light chain 8 (dlc8) and nNOS (fragment peptide) complex"	4911	1F96 (5)	89	88		8.406	88		120.939
+"DYNEIN light chain 8 (dlc8) and nNOS (fragment peptide) complex"	4912	1F96 (5)	89	87		8.418	87		121.164
+"cAMP-regulated phosphoprotein-19 monomer"	4913	     (0)	115	104		8.250	104		120.356
+"Polyadenylate-binding protein 1"	4915	1G9L (2)	144	126		8.182	126		118.917
+"Pseudomonas Type IV pilin"	4918	1HPW (1)	129	115		8.323	115		110.749
+"ERp29 N-domain"	4919	1G7E (3)	137	123		8.268	121		119.189
+"ERp29 C-domain"	4920	1G7D (3)	120	111		8.086	110		118.835
+"unfolded apoplastocyanin"	4922	4PCY (8)	99	92		8.148	92		119.199
+"Tityustoxin K-alpha"	4925	1ADN (1)	92	81		8.287	81		119.502
+"chymotrypsin inhibitor 2"	4926	1CIQ (2)	76	122		8.330	122		120.142
+"Circular Permuted Variant of CV-N"	4927	     (0)	101	96		8.465	96		119.449
+"Circular Permuted Variant of CV-N"	4928	1F62 (1)	51	44		8.327	44		120.917
+"Tctex1 dimer"	4929	     (0)	114	110		8.300	110		119.983
+"Human Trefoil Factor Family 1 protein homodimer"	4930	1PS2 (3)	60	52		8.260	52		119.546
+"Human Trefoil Factor Family 1 protein homodimer"	4931	1F96 (5)	89	88		8.442	88		121.418
+"Human Trefoil Factor Family 1 protein"	4933	1HI7 (3)	60	52		8.250	52		119.658
+"Signal Recognition Particle Protein SRP19"	4935	1KVV (2)	104	90		8.234	90		119.794
+"Outer membrane protein X in DHPC micelles"	4936	1QJ9 (3)	148	140		8.442	140		119.127
+"mouse doppel"	4938	1I17 (2)	132	129		8.254	128		107.859
+"Antennal Specific Protein 1"	4940	     (0)	119	101		8.140	101		117.676
+"Ku70 DNA binding domain at the C-terminus"	4941	1JEY (3)	97	83		8.173	83		118.463
+"Recombinant RC-RNase L1"	4942	     (0)	112	102		8.289	102		119.399
+"Arsenate reductase"	4944	1JF8 (1)	131	121		8.236	122		120.284
+"Vam3p N-terminal domain"	4945	1HS7 (2)	123	114		8.184	114		119.251
+"UBX domain of fas accociated factor 1"	4952	1H8C (1)	102	86		8.247	86		119.935
+"trigger factor PPIase domain"	4953	     (0)	113	97		8.350	97		120.765
+"Riboflavin Synthase N-domain"	4954	1I8D (5)	97	94		8.483	94		120.493
+"Cysteinyl-phosphorylated enzyme IIB"	4955	1E2B (3)	106	100		8.290	106		120.355
+"YajQ from E.coli"	4956	     (0)	163	155		8.318	155		120.638
+"N-terminal domain of MotA, MotNF"	4957	1BJA (3)	96	91		8.094	91		119.765
+"N-terminal domain of MotA, MotNF"	4958	     (0)	112	78		8.156	78		118.485
+"epsin ENTH domain"	4959	1EYH (3)	148	139		8.034	139		120.298
+"YopH complex"	4961	1HUF (2)	136	123		8.334	123		119.754
+"Rat Nedd4 WWIII domain - ENaC bP2 Peptide Complex"	4963	1I5H (3)	50	53		8.255	59		121.126
+"Rat Nedd4 WWIII domain - ENaC bP2 Peptide Complex"	4964	1BNE (36)	110	100		8.391	100		122.636
+"Rat Nedd4 WWIII domain - ENaC bP2 Peptide Complex"	4965	     (0)	147	134		8.255	134		119.000
+"Mason-Pfizer Monkey Virus protease"	4967	     (0)	107	96		8.503	95		119.495
+"Bovine Pancreatic Trypsin Inhibitor monomer"	4968	4TPI (37)	58	52		8.206	52		118.808
+"Truncated amino-terminal Carp Granulin-1"	4973	     (0)	103	99		8.281	99		119.465
+"Chymotrypsin Inhibitor 2"	4974	3CI2 (1)	64	59		8.395	59		121.419
+"lipid transfer protein"	4977	     (0)	67	62		8.012	61		118.166
+"B0 isoform of the 3rd(C-terminal) globular domain of agrin"	4978	1C4R (3)	195	184		8.472	184		120.950
+"bovine seminal ribonuclease monomer (N67D mutant)"	4980	11BA (3)	125	118		8.358	117		119.330
+"fifth domain of beta2-glycoprotein I"	4981	1C1Z (5)	86	83		8.495	82		120.940
+"fifth domain of beta2-glycoprotein I"	4983	1CMX (2)	236	293		8.221	293		120.905
+"fifth domain of beta2-glycoprotein I"	4983	1CMX (2)	76	293		8.221	293		120.905
+"fifth domain of beta2-glycoprotein I"	4984	1K0S (1)	151	145		8.375	146		120.642
+"flavodoxin-like domain of the Escherichia coli sulfite reductase"	4985	1DDG (2)	167	156		8.261	156		120.315
+"maltodextrin-binding protein"	4986	1JVY (24)	370	335		8.109	335		118.299
+"maltodextrin-binding protein"	4987	1JVY (24)	370	341		8.111	341		118.154
+"B. subtilis ACYL CARRIER PROTEIN"	4989	1F80 (3)	81	79		8.228	79		119.073
+"toluene 4-monooxygenase"	4992	     (0)	112	93		8.487	93		119.967
+"C domain of Cardiac Troponin C. complexed to EMD 57033"	4994	3CTN (6)	71	70		8.245	70		118.859
+"GlyTM1bZip coiled-coil dimer"	4996	1IIO (2)	84	75		8.143	75		118.234
+"nucleocapsid binding domain of the sendai virus phosphoprotein"	4999	     (0)	109	96		8.188	96		119.858
+"C-Terminal Domain of PAC-1"	5000	     (0)	141	112		8.179	112		120.046
+"reduced yeast iso-2 cytochrome c"	5003	1YTC (2)	112	105		8.108	105		118.932
+"human interleukin-13"	5004	1F80 (2)	81	79		8.228	79		119.073
+"oxidized yeast iso-2 cytochrome c"	5005	1YTC (2)	112	104		8.306	104		119.371
+"DNA Polymerase X"	5010	1JQR (3)	174	164		8.327	162		119.860
+"Anabaena PCC 7119 apoflavodoxin"	5011	1DX9 (6)	169	141		8.232	139		118.724
+"the third domain of MMP-2"	5012	1J7M (2)	72	66		8.306	66		117.183
+"E6AP catalytic domain"	5013	1C4Z (2)	120	111		8.161	111		118.737
+"MyBP-C cC5"	5014	     (0)	130	109		8.344	109		121.668
+"TUMOR NECROSIS FACTOR RECEPTOR-1"	5018	1ICH (2)	112	96		8.175	96		118.889
+"TUMOR NECROSIS FACTOR RECEPTOR-1"	5019	     (0)	167	141		8.269	141		119.268
+"ALPHA-BUNGAROTOXIN/ACETYLCHOLINE RECEPTOR PROTEIN (ALPHA CHAIN) COMPLEX"	5025	1ABT (20)	74	80		8.535	15		118.165
+"human fibronectin EDA"	5027	1J8K (2)	94	85		8.426	83		119.675
+"Honeybee antennal specific Protein 2"	5030	     (0)	123	119		8.090	119		118.789
+"KaiA N-terminus"	5031	     (0)	135	127		8.289	127		120.209
+"AFX in complex with DNA"	5032	1e17 (1)	108	75		8.054	75		118.809
+"TRANSCRIPTION FACTOR SOX-5"	5036	1I11 (2)	81	63		7.959	63		120.085
+"TRANSCRIPTION FACTOR SOX-5"	5038	1JAS (1)	152	132		8.172	132		118.714
+"I1(I29T) monomer"	5040	     (0)	171	146		8.311	148		119.836
+"DNA Ligase III, BRCT domain (E.C.6.5.1.1)"	5041	1IN1 (3)	88	81		8.105	81		119.086
+"Human lymphotactin monomer"	5042	1J9O (4)	93	89		8.378	89		119.825
+"NEURAL CELL ADHESION MOLECULE"	5044	1IE5 (2)	107	97		8.544	97		121.575
+"LCCL module of human coch-5b2 protein"	5047	1JBI (2)	100	96		8.359	94		119.120
+"cellular retinol-binding protein type I"	5048	1CRB (3)	135	125		8.646	125		122.050
+"Extracellular domain of subunit 2 of the human receptor for type I interferons"	5049	     (0)	212	183		8.409	183		120.556
+"Diadenosine 5',5'''-P1,P4 tetraphosphate hydrolase complexed with ATP"	5054	1JKN (3)	165	152		8.349	151		120.646
+"HYPOTHETICAL PROTEIN HI0257"	5055	1IMU (2)	110	102		8.291	102		120.383
+"Alzheimer peptide Ab(1-40) of man"	5058	1GNU (2)	119	100		8.316	100		119.161
+"TM006 protein from Thermotoga maritima"	5060	1JDQ (2)	98	78		8.291	79		120.397
+"DNA-binding domain of ADR6"	5061	     (0)	122	107		8.148	106		119.344
+"HIV-1 protease tethered dimer"	5062	1G6L (2)	203	190		8.436	191		121.118
+"GABAA receptor associated protein"	5064	1GNU (2)	136	89		8.346	91		119.369
+"CYSTEINE-RICH PROTEIN 2"	5065	1CXX (5)	113	55		8.392	55		119.959
+"CYSTEINE-RICH PROTEIN 2"	5066	1JI9 (2)	68	36		8.253	35		119.924
+"lipoyl domain of dihydrolipoyl dehydrogenase P64K"	5067	1GJX (1)	81	78		8.487	78		118.371
+"C-terminal domain of tyrosyl-tRNA synthetase"	5070	3TS1 (4)	107	93		8.218	94		119.382
+"troponin C, skeletal muscle"	5071	1A2X (5)	77	74		8.268	74		119.096
+"CD3 Epsilon and gamma Ectodomain Fragment Complex"	5072	1JBJ (2)	186	148		8.501	147		120.022
+"Apolipoprotein(a) kringle IV type 6"	5075	1JFN (1)	119	97		8.288	97		118.700
+"Apolipoprotein(a) kringle IV type 6"	5077	1JJG (2)	102	83		8.451	83		121.292
+"Gallium protoporphyrin IX-HasAsm complex"	5081	1B2V (6)	178	173		8.311	173		117.602
+"Epidermal-type fatty acid binding protein"	5083	1B56 (3)	135	132		8.659	132		121.040
+"beta2 subunit of BK channels"	5093	     (0)	108	101		8.232	101		118.823
+"Intramolecular complex of LMO2(LIM1) and ldb1(LID)"	5100	     (0)	114	214		8.411	104		117.501
+"ubiquitin fragment"	5101	1AAR (11)	53	48		8.335	49		119.028
+"SK2 calmodulin binding domain"	5102	1G4Y (3)	102	343		8.265	343		121.487
+"s100p dimer"	5103	     (0)	95	87		8.254	87		118.702
+"s100p dimer"	5104	1JRM (2)	104	95		8.365	95		119.789
+"s100p dimer"	5105	1JYG (2)	69	66		8.129	66		118.373
+"s100p dimer"	5106	1JSB (1)	70	67		8.444	67		120.031
+"Sensor and Substrate Binding Domain from Lon (La) Protease (E. coli)"	5107	     (0)	101	98		8.226	98		118.684
+"gamma subunit of dissimilatory siroheme-sulfite reductase"	5115	1JI8 (2)	119	93		8.244	93		118.317
+"gamma subunit of dissimilatory siroheme-sulfite reductase"	5116	1JI8 (2)	119	91		8.222	91		118.313
+"cyclic N-terminal domain of DnaB helicase"	5122	1B79 (3)	122	115		8.058	114		117.833
+"Human Lysozyme"	5123	3LHM (164)	130	123		8.202	123		116.819
+"Human Lysozyme I56T"	5124	1OUB (156)	130	127		8.209	127		111.425
+"Human Lysozyme D67H"	5125	1GF4 (156)	130	125		8.202	125		116.866
+"Ciliary Neurotrophic Factor Receptor"	5126	     (0)	109	96		8.329	109		122.005
+"GABARAP monomer"	5128	1KOT (2)	117	97		8.211	97		119.153
+"human lysozyme at 35 degree C"	5130	3LHM (164)	130	127		8.174	127		118.397
+"Second PDZ domain of PTP-BL"	5131	1GM1 (2)	102	88		8.486	98		106.906
+"human lysozyme"	5142	3LHM (164)	130	127		8.270	127		118.581
+"alpha2A adrenergic receptor"	5147	1JJD (2)	55	47		8.215	41		118.243
+"METHANE MONOOXYGENASE COMPONENT C"	5148	1JQ4 (2)	98	78		8.211	78		119.603
+"p47 protein"	5155	1JRU (3)	89	85		8.302	86		120.435
+"p47 protein"	5156	     (0)	104	150		8.200	150		118.274
+"apomyoglobin N132G,E136G mutant"	5158	2MYE (65)	153	137		8.019	137		118.805
+"Nucleotide binding domain of the Sarco(Endo)plasmic Reticulum Ca2+-ATPase"	5161	1KJU (2)	247	222		8.358	222		119.322
+"Conserved Hypothetical Protein MTH1598"	5165	1JW3 (2)	140	139		8.441	139		120.338
+"hemolysin expression modulating protein Hha"	5166	1JW2 (2)	72	65		8.204	63		119.772
+"protein yjbj"	5168	1JYG (2)	69	66		8.130	66		118.380
+"Oxidized cytochrome c553 from Bacillus pasteurii"	5172	1K3G (6)	71	67		8.553	67		117.410
+"CPI-17 (35-120) deletion mutant"	5175	1K50 (1)	86	84		8.160	84		119.624
+"chick cofilin"	5177	     (0)	166	159		8.231	159		119.596
+"chitinase fibronectin type III domain"	5178	1K85 (1)	88	84		8.496	84		118.986
+"GAL4 dimerization domain"	5180	1HBW (2)	57	39		7.928	39		119.333
+"Xylanase 10A, second family 4 carbohydrate binding module"	5181	1K45 (1)	168	156		8.445	156		119.976
+"vascular endothelial growth factor receptor-binding domain dimer in complex with peptide v107"	5185	1VPF (7)	99	88		8.448	88		120.361
+"vascular endothelial growth factor receptor-binding domain dimer"	5186	1VPF (7)	99	85		8.455	85		120.511
+"S100A11 homodimer"	5189	     (0)	102	96		8.190	96		118.451
+"ribosome recycling factor"	5190	1EK8 (1)	185	175		8.218	175		119.537
+"ribosome recycling factor"	5191	1DD5 (1)	185	167		8.172	167		119.524
+"Synaptotagmin I"	5194	1K5W (2)	152	143		8.414	143		120.326
+"peptide v107 in complex with vascular endothelial growth factor receptor-binding domain dimer"	5198	1VPF (7)	99	16		8.098	16		120.585
+"CNP catalytic domain"	5202	     (0)	219	200		8.217	200		116.567
+"S100B dimer"	5206	1UWO (2)	92	87		8.351	87		119.382
+"Palm-Thumb Domain of DNA Polymerase B"	5208	1JN3 (22)	190	168		8.297	168		119.032
+"Palm-Thumb Domain of DNA Polymerase B in complex with XRCC1-NTD"	5209	1XNT (25)	190	164		8.310	164		119.147
+"Palm-Thumb Domain of DNA Polymerase B in complex with XRCC1-NTD"	5209	1XNT (25)	157	164		8.310	164		119.147
+"SAP/SH2D1A bound to peptide n-Y-c"	5211	1D1Z (6)	128	129		8.396	120		120.209
+"SAP/SH2D1A bound to peptide n-pY"	5212	1D1Z (6)	128	122		8.344	124		119.858
+"CopZ from Bacillus subtilis"	5213	1K0V (2)	73	72		8.329	72		120.009
+"SH3 domain of the tyrosine-protein kinase Lck"	5223	1LCK (3)	63	58		8.446	58		119.784
+"smMLCK:CaM complex"	5227	1DEG (23)	148	19		8.259	19		118.135
+"heparin-binding domain of vascular endothelial growth factor-165"	5238	1VGH (5)	55	50		8.388	50		119.194
+"Pin1 N-terminal WW domain"	5251	1J9O (2)	93	83		8.310	83		120.323
+"first fibronectin type II module of human matrix metalloproteinase 2"	5262	1KS0 (3)	60	56		8.346	56		117.630
+"sialic acid binding domain of rhesus rotavirus VP4"	5275	1KQR (4)	186	150		8.616	148		120.244
+"CaM:CaMKIp complex"	5286	1A06 (23)	148	144		8.310	144		118.964
+"CaM:CaMKI(320) complex"	5287	1A06 (23)	148	144		8.325	144		118.800
+"CaM:CaMKI(320) complex"	5287	1A06 (23)	340	144		8.325	144		118.800
+"MITOTIC SPINDLE ASSEMBLY CHECKPOINT PROTEIN MAD2A/PEPTIDE"	5299	1KLQ (4)	197	196		8.358	195		119.846
+"ORF C32E8.3"	5300	     (0)	190	175		8.170	175		119.554
+"mono-heme c-type cytochrome ScyA"	5304	1KX7 (4)	81	76		7.948	76		118.304
+"hypoxia inducible factor-1alpha/p300 complex"	5306	1L3E (1)	101	131		8.201	131		119.259
+"phospholipase C gamma-1 C-terminal SH2 domain"	5310	2PLE (3)	105	105		8.427	98		120.108
+"phospholipase C gamma-1 C-terminal SH2 domain"	5316	     (0)	288	266		8.158	265		118.538
+"Telomeric repeat binding factor 1"	5317	1BA5 (3)	69	67		8.034	67		119.054
+"phospholipase C gamma-1 C-terminal SH2 domain"	5318	2PLE (3)	105	98		8.296	98		120.236
+"cellular retinol-binding protein type I"	5319	1CRB (3)	135	132		8.653	132		122.002
+"Thermal hysteresis protein isoform YL-1 (2-14)"	5323	1EZG (2)	84	79		8.131	79		118.018
+"D24N61 mutant of ATP Synthase subunit c"	5326	1L6T (1)	79	76		8.206	76		117.488
+"Hif-1alpha/CBP complex"	5327	1L8C (1)	51	130		8.373	130		120.024
+"Hif-1alpha/CBP complex"	5327	1L8C (1)	95	130		8.373	130		120.024
+"recoverin mutant, E85Q"	5332	1REC (4)	202	172		8.157	170		118.432
+"cytochrome c3"	5333	2CDV (3)	107	102		7.993	102		118.996
+"human adrenodoxin"	5337	1CJE (2)	111	92		8.356	92		120.104
+"proapoptotic bid"	5340	2BID (2)	197	178		8.132	178		118.504
+"LACTOSE OPERON REPRESSOR/DNA Complex"	5345	1EFA (12)	62	119		8.154	116		119.128
+"Trypsin-Bound Bovine Pancreatic Trypsin Inhibitor"	5358	4TPI (38)	58	52		8.226	53		119.075
+"Bovine Pancreatic Trypsin Inhibitor"	5359	4TPI (38)	58	53		8.204	53		118.889
+"TELOMERE REPEAT BINDING FACTOR 1/DNA Complex"	5361	1BA5 (3)	70	67		8.100	67		119.339
+"cytochrome c"	547	4CLN (6)	148	143		8.199	147		107.401
+"T4 lysozyme"	915	128L (357)	164	157		8.185	161		104.292
+"cytochrome c551"	968	     (0)	82	73		8.037	73		101.915
+"cytochrome c551"	969	     (0)	82	54		7.825	54		106.930
+"cytochrome c551"	970	     (0)	82	69		7.904	71		113.190
+"cytochrome c551"	971	     (0)	82	69		7.868	69		106.832

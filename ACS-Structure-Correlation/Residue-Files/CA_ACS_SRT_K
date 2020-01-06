@@ -1,0 +1,332 @@
+BMRB_ACC#	PDB_ACC#		HA_ACS	CA_ACS	Molecule
+
+4001		1SYM (8)    		4.156	58.556	ferredoxin I
+4012		2RN2 (8)    		4.308	55.972	Ribonuclease H1
+4022		2CAB (18)    		4.531	56.318	human carbonic anhydrase I
+4023		1BDD (4)    		4.230	57.148	staphylococcal protein A Z domain
+4029		1SXL (3)    		4.513	56.808	Sex-lethal protein
+4030		1REC (3)    		4.197	57.929	apo-recoverin
+4031		1A5P (198)    		4.585	56.667	bovine pancreatic ribonuclease A
+4032		6RAT (98)    		4.563	56.836	bovine pancreatic [C65S,C72S] ribonuclease A
+4036		1AKP (2)    		4.747	54.397	Regulatory protein E2
+4037		1CLH (2)    		4.533	54.842	periplasmic cyclophilin type cys-trans peptidyl-prolyl isomerase
+4038		1VRE (4)    		4.084	56.817	component IV glycera dibranchiata monomeric hemoglobin-CO
+4041		1RSY (3)    		4.621	55.645	synaptotagmin I C2A
+4045		1YUA (2)    		4.419	56.323	DNA Topoisomerase I
+4046		1HKT (2)    		4.411	56.653	Drosophila Heat Shock Factor
+4047		1HUU (3)    		4.499	55.179	HU protein
+4049		1URK (3)    		4.503	55.623	Urokinase-type plasminogen activator
+4053		1A3U (48)    		4.431	55.261	staphylococcal nuclease
+4056		1DEG (23)    		4.259	57.578	calmodulin W-7 complex
+4063		1EVS (2)    		4.344	57.109	Oncostatin M
+4064		1CGL (20)    		4.503	56.026	human fibroblast collagenase
+4067		2BRZ (4)    		4.445	56.839	designed four-alpha-helix bundle protein
+4068		1SGQ (27)    		4.438	56.652	turkey ovomucoid third domain
+4070		1QUN (4)    		4.659	55.902	Long-[Arg-3]-Insulin-Like Growth Factor-I
+4072		1GTO (8)    		4.201	58.179	Antifungal Protein 1
+4075		1JWE (2)    		4.162	57.919	DnaB helicase
+4076		1OSP (4)    		4.687	56.394	Outer Surface Protein A
+4077		1BKF (30)    		4.615	205.652	FK 506 Binding Protein bound to Ascomycin
+4079		1CKT (2)    		4.032	57.818	A-domain HMG1
+4081		1RH2 (4)    		4.123	58.716	Troponin C
+4086		1BI7 (4)    		4.217	56.780	Sex-lethal protein RNA binding domain 2
+4089		2def    		4.442	56.948	peptide deformylase
+4091		1BAS (19)    		4.522	55.319	basic fibroblast growth factor
+4092		1H9D (8)    		4.443	56.435	Core binding factor b subunit
+4093		1RTI (50)    		4.439	56.702	RNase H domain of human HIV-1 Reverse Transcriptase
+4094		1RCB (22)    		4.256	58.337	human Interleukin 4
+4096		1VRE (4)    		8.786	8.503	component IV monomeric hemoglobin-CO
+4099		1DT7 (9)    		4.189	58.726	Liver Fatty Acid-Binding Protein
+4101		1CUB (72)    		4.412	56.446	basic pancreatic trypsin inhibitor
+4102		1A7T (7)    		4.524	56.780	metallo-beta-lactamase
+4105		1SYM (8)    		4.194	58.790	BS2 operator DNA complexed with the Antennapedia Homeodomain
+4106		3EZB (22)    		4.252	57.728	N-terminal Domain of Enzyme I
+4109		1CDC (4)    		4.640	55.512	rat CD2 domain 1
+4110		1QU6 (2)    		4.341	56.628	double stranded RNA binding domain of PKR
+4114		1A5J (2)    		4.187	57.893	Vaccinia Glutaredoxin-1
+4115		1IMP (8)    		4.189	57.167	IM9 E9-complex
+4116		1IMP (8)    		4.177	56.710	Im9 immunity protein
+4117		1B64 (2)    		4.428	56.684	human Elongation Factor-1beta
+4121		1BW5 (2)    		4.083	59.087	Isl-1 homeodomain
+4122		1BU1 (11)    		4.509	166.267	Hematopoietic cell kinase
+4123		3PDZ (2)    		4.469	54.266	second PDZ domain from human phosphatase hPTP1E
+4127		2TBD (4)    		4.394	54.449	Origin DNA-binding domain of SV40 T-antigen
+4130		1IB7 (24)    		4.278	57.509	rat ferrocytochrome b5 A form
+4131		1IB7 (24)    		4.285	57.385	rat ferrocytochrome b5 B form
+4134		1BBW (8)    		4.404	55.498	human ubiquitin-conjugating enzyme
+4140		1QJT (2)    		4.210	56.962	EH1 domain of mouse Eps15
+4141		1QRY (4)    		4.265	57.951	vnd/NK-2 homeodomain DNA complex
+4144		1HMJ (2)    		4.373	55.449	subunit H, RPB5
+4146		1ATY (12)    		4.115	1227.051	F1Fo ATP Synthase Subunit c
+4149		1PUT (6)    		4.395	56.688	gallium putidaredoxin
+4150		1I1R (5)    		4.623	58.113	third extracellular N-terminal domain of gp130
+4151		1ATY (12)    		4.111	1227.045	F1FO ATP Synthase Subunit c
+4152		1E4V (12)    		4.324	55.123	Adenylate kinase from E. coli
+4153		1DSZ (7)    		4.279	55.068	Retinoid-X-Receptor -alpha DNA Binding domain
+4154		1GPX (6)    		4.164	56.827	oxidized putidaredoxin
+4156		1bjx    		4.380	57.267	Protein Disulfide Isomerase
+4160		1TN9 (8)    		4.431	56.228	Tn916 integrase subunit 1
+4161		1IRG (6)    		4.346	57.010	IRF-2 DNA binding domain
+4162		2NCM (4)    		4.655	55.798	Neural cell adhesion molecule module 1
+4165		2BB8 (8)    		4.478	56.289	Tn916 integrase DNA complex
+4168		1BV8 (2)    		4.590	56.677	Alpha-2-macroglobulin receptor binding domain
+4171		1QNZ (3)    		4.647	55.900	0.5b antibody Fv - V3 antigen
+4177		1BO0 (3)    		4.451	57.893	Monocyte chemoattractant protein-3
+4183		1G3S (25)    		4.516	56.168	DtxR subunit 3, C-terminal domain
+4184		1EH2 (6)    		4.223	58.375	eps15 homology domain
+4186		1blr    		4.646	57.111	CRABPII system
+4188		1RLW (5)    		4.802	57.216	C2 Domain of Cytosolic Phospholipase A2
+4193		1E4V (12)    		4.242	57.481	Adenylate kinase/AP5A complex
+4198		1DN1 (6)    		4.087	59.469	N-terminal domain of syntaxin 1A
+4202		1ba9    		4.545	55.061	Superoxide Dismutase
+4206		2MFN (4)    		4.734	56.747	Ets-1 Pointed
+4209		2cpb    		4.052	58.132	M13 major coat protein
+4215		1C79 (12)    		4.530	55.384	Tissue Inhibitor of Metalloproteinases-2 (TIMP-2)
+4217		1bhu    		4.525	54.130	streptomyces metalloproteinase inhibitor
+4224		2MYO (4)    		4.124	57.041	TATA box binding protein associated factor II 230
+4228		1BQZ (4)    		4.181	57.241	lead-dependent ribozyme
+4230		1BUQ (2)    		4.525	56.982	3-ketosteroid isomerase-19-nortestosterone-hemisuccinate
+4232		1zac    		4.224	63.856	Calcium binding subunit of troponin, TnC monomer
+4236		1HZZ (3)    		4.439	56.534	DNA decamer
+4237		1EV0 (2)    		4.529	58.259	MinE topological specificity domain
+4242		3msp    		4.694	54.387	Major Sperm Protein
+4248		2lef    		4.133	55.430	Lymphoid enhancer-binding factor
+4249		1xpa    		4.328	57.312	Human NER factor XPA
+4251		2ABL (3)    		4.550	56.224	Src homology domain 3 and 2
+4252		2ABL (3)    		4.610	55.711	Abl SH(32) complex
+4254		1BM8 (3)    		4.358	56.929	T2 RNA Pseudoknot
+4255		2if1    		4.504	56.426	Eukaryotic translation initiation factor 1
+4263		2nmb    		4.442	56.749	PTB domain of Drosophila Numb protein/GPpY_peptide complex
+4264		1CM2 (32)    		4.261	57.560	Phosphotransferase system, enzyme I
+4265		1DS9 (2)    		4.458	57.416	Dynein light chain 1
+4267		1DFV (4)    		4.621	56.578	apo-HNGAL Human Neutrophil Gelatinase-Associated Lipocalin
+4269		1GDT (8)    		4.526	56.839	gamma delta resolvase catalytic core
+4270		1CKK (39)    		4.190	57.631	Ca2+/calmodulin - 26-residue peptide from rat Ca2+/calmodulin dependent protein kinase kinase complex
+4272		1SFC (3)    		4.288	55.869	synaptobrevinII cytoplasmic domain residues 1-96
+4276		1B2I (2)    		4.516	54.151	Candidacidal Peptide Domain of MUC7
+4280		1QK9 (2)    		4.356	56.433	Methyl binding domain of MeCP2
+4282		1XNT (4)    		4.562	56.610	XRCC1 N-terminal domain
+4284		1CFF (39)    		4.111	57.474	Calmodulin-Ca2+-Pump-Peptide Complex
+4293		1BXI (4)    		4.405	55.456	DNase domain of colicin E9
+4296		1MJC (4)    		4.546	55.272	Major cold shock protein from E. coli
+4297		1B79 (3)    		4.117	58.413	DnaB helicase N-terminal domain
+4299		1HKA (9)    		4.357	58.027	6-hydroxymethyl-7,8-dihydropterin pyrophosphokinase
+4300		1HKA (9)    		4.377	57.888	HPPK-AMPPCP complex
+4301		1CFE (2)    		4.382	55.956	Pathogenesis-related Protein P14a
+4304		1QAV (4)    		4.514	57.191	neuronal nitric oxide synthase PDZ domain complexed with a peptide
+4305		1F96 (6)    		4.454	58.071	protein inhibitor of neuronal nitric oxide synthase
+4307		1B10 (2)    		4.302	57.572	Recombinant Syrian hamster prion protein
+4309		1B2V (6)    		4.477	55.765	cytokine receptor common beta chain domain 4
+4310		1DEG (22)    		4.244	57.562	calmodulin:SL3 Enhancer Factor2-1 complex
+4311		1QRJ (2)    		4.252	57.649	human T-cell leukemia virus type I capsid monomer
+4317		1NS1 (4)    		4.043	58.868	NS1(1-73) dimer
+4321		1QST (8)    		4.443	57.025	p55 monomer in complex with CoA
+4326		9ICL (198)    		4.135	57.351	N-Terminal Domain of DNA Polymerase B
+4327		1UEA (4)    		4.518	56.559	N-terminal inhibitory domain of human tissue inhibitor of metalloproteinases-1
+4328		1B22 (2)    		4.230	56.936	N-terminal domain of HsRad51
+4333		1E41 (4)    		4.049	58.720	FADD death domain
+4334		1KQQ (3)    		4.117	58.119	ARID domain of dead-ringer protein
+4336		1HPC (6)    		4.527	56.629	methylamine loaded form of the Glycine Cleavage System H-protein
+4339		1CN7 (14)    		4.337	57.629	FL30 PROTEIN
+4340		1MUP (8)    		4.574	268.342	major urinary protein
+4342		1EKG (4)    		4.393	57.208	Iron-containing superoxide dismutase
+4345		1CN7 (14)    		4.276	57.668	L30-MRNA COMPLEX
+4348		1NTC (2)    		4.126	57.433	Nitrogen Regulatory protein C-C-term-3Ala
+4349		43CA (6)    		4.700	55.645	Fv fragment of the catalytic antibody NPN43C9
+4352		1IMP (8)    		4.353	55.103	Inhibitor (Im9)-bound DNase domain of colicin E9
+4356		1G6L (2)    		4.729	55.938	HIV-1 protease tethered dimer
+4360		3RPB (2)    		4.602	56.104	cytochrome c
+4368		1NK3 (8)    		4.248	58.408	A35T vnd/NK2 mutant homeodomain
+4371		1ONC (2)    		4.448	57.270	Recombinant Onconase/P30 protein
+4373		1FHO (2)    		4.540	57.630	UNC-89 PH domain
+4375		1F9J (9)    		4.376	55.916	Sml1 protein
+4376		1CZ5 (4)    		4.724	121.617	VATN VCP-like ATPase of Thermoplasma N-domain
+4379		1FKC (23)    		4.210	57.883	human prion protein fragment 121-230
+4380		1FF5 (6)    		4.534	56.334	Epithelial Cadherin
+4381		1C07 (2)    		4.203	58.193	Third EH domain of human Eps15
+4384		1EM9 (3)    		4.168	58.050	Capsid protein from Rous Sarcoma Virus
+4385		1GH8 (2)    		4.533	55.860	elongation factor-1beta
+4386		1AGR (4)    		4.191	58.419	REGULATOR OF G-PROTEIN SIGNALING 4
+4395		1b75    		4.512	54.861	RIBOSOMAL PROTEIN L25
+4397		1b2t    		4.357	56.526	Nematode Anticoagulant Protein c2
+4401		1blq    		4.217	57.555	skeletal N-troponin C
+4402		1QM0 (11)    		4.290	55.424	human prion protein hPrP(23-230)
+4405		1khm    		4.387	57.440	hnRNP K
+4407		1cmz    		4.120	58.955	Gaip protein
+4417		1b6f    		4.547	56.973	Major Pollen Allergen Bet v 1-L
+4424		1qhk    		4.302	53.446	ribonuclease HI
+4426		3BDO (8)    		4.534	56.879	ACETYL-COA CARBOXYLASE
+4430		2CNP (7)    		4.175	57.478	CALCYCLIN (RABBIT)
+4431		1ckv    		4.384	49.101	methane monooxygenase regulatory protein B
+4434		1QLX (21)    		4.250	56.940	Human prion protein fragment 90-230
+4437		1cej    		4.589	55.839	MEROZOITE SURFACE PROTEIN 1
+4438		1QND (2)    		4.411	56.110	Sterol carrier protein 2See
+4444		1E10 (2)    		4.512	56.155	Anabaena 7120 vegetative Ferredoxin
+4447		1H7Y (2)    		4.439	57.171	HRDC domain
+4448		1JKN (2)    		4.451	56.539	Diadenosine 5',5'''-P1,P4 tetraphosphate hydrolase
+4449		3RDN (6)    		4.423	57.404	antifreeze protein type III intramolecular dimer RD3
+4451		1C9F (4)    		4.493	56.456	N-terminal domain of caspase-activated DNase
+4453		1H8B (2)    		4.183	57.590	alpha-actinin/titin complex
+4455		1ci5    		4.628	56.420	CD58 adhesion domain, 1dCD58
+4460		1DPU (2)    		4.354	56.858	Replication Protein A 32kDa subunit
+4463		1I35 (2)    		4.393	57.762	Ras-binding domain of Byr2
+4467		1QK9 (3)    		4.540	55.847	chicken MeCP2/ARBP monomer
+4471		1QL4 (5)    		4.242	56.070	cytochrome c552
+4472		1AB5 (51)    		4.350	56.562	BeFx-activated CheY from E. coli
+4478		1B4R (2)    		4.569	52.465	PKD1 HUMAN
+4486		2MOB (2)    		4.577	56.760	METHANE MONOOXYGENASE REGULATORY PROTEIN B
+4491		1QJT (2)    		4.210	56.962	alpha-amylase inhibitor
+4492		1JBA (2)    		4.203	57.882	guanylate cyclase activating protein 2
+4496		1om2    		4.122	58.276	Ubiquitin core mutant 1D7
+4497		1CKR (4)    		4.626	56.485	Heat shock cognate 70 kd protein 1
+4498		1CL4 (2)    		4.406	56.068	GAG MPMV
+4516		3PDZ (2)    		4.457	54.258	HUMAN PHOSPHATASE HPTP1E/PEPTIDE
+4519		1D7Q (2)    		4.537	55.814	Translation initiation factor 1A
+4527		1DC8 (6)    		4.466	57.251	NITROGEN REGULATION PROTEIN
+4528		1DC8 (6)    		4.466	57.090	NITROGEN REGULATION PROTEIN C
+4553		1ZON (12)    		4.328	57.265	Inserted domain of the leukocyte function associated antigen-1 in the presence of magnesium
+4558		1HUF (2)    		4.387	56.447	YopH-NT monomer
+4560		1G11 (2)    		4.506	56.899	mouse mammary tumor virus nucleocapsid protein
+4562		1HEN (152)    		4.302	56.846	Hen Egg White Lysozyme
+4563		1DX1 (8)    		4.213	390.815	Bovine prion protein fragment 121-230
+4565		1CK7 (2)    		4.439	55.816	truncated catalytic domain of matrix metalloproteinase-2
+4566		1AYF (4)    		4.347	56.288	bovine adrenodoxin
+4568		1MLG (254)    		4.210	56.916	catalytic domain of yUBC1
+4572		1DU6 (2)    		4.221	56.594	PBX homeodomain
+4574		1D4B (2)    		4.338	56.295	CIDE-N DOMAIN OF HUMAN CIDE-B
+4577		1c06    		4.293	57.657	RIBOSOMAL PROTEIN S4 DELTA 41
+4578		1DVV (2)    		4.150	56.709	Pseudomonas aeruginosa cytochrome c-551
+4579		1HYJ (3)    		4.427	56.598	FYVE domain of EEA1
+4583		1DOQ (2)    		4.210	57.180	RNA POLYMERASE ALPHA SUBUNIT (2.7.7.-)
+4590		1EIH (3)    		4.384	57.404	scaffoldin protein
+4593		1EOQ (2)    		4.175	59.238	Rous sarcoma virus capsid protein: C-terminal domain
+4599		1CKR (3)    		4.626	56.485	heat shock cognate 70 kd protein 1
+4600		1CL4 (2)    		4.406	56.068	GAG Polyprotein
+4603		1HQB (3)    		4.219	57.383	APO-D-ALANYL CARRIER PROTEIN
+4620		1QM0 (19)    		4.216	57.923	prion protein
+4622		1E52 (2)    		4.130	58.131	UvrB C-terminal domain
+4636		1F3V (3)    		4.378	283.425	Tumor necrosis factor receptor type 1 associated death domain protein
+4637		1AKH (4)    		4.109	55.354	MATING-TYPE PROTEIN A-1
+4641		1E1J (14)    		4.290	57.255	HUMAN PRION PROTEIN (MUTANT E200K)
+4648		1FZT (2)    		4.296	56.810	Phosphoglycerate Mutase (E.C.5.4.2.1)
+4649		1QRJ (3)    		4.178	58.056	HTLV-I CAPSID PROTEIN
+4661		1c15    		4.025	57.909	Apoptotic protease activating factor 1
+4663		1C3T (2)    		4.499	56.612	protein (1D8 UBIQUITIN) mutant (I3L,I13L,L15V,V17L,I23V,V26L,I61L,L67I)
+4666		1DD2 (4)    		4.526	54.392	transcarboxylase 1.3S subunit
+4675		1E17 (2)    		4.271	56.552	DNA binding domain of AFX transcription factor
+4676		1MLG (131)    		4.348	55.947	apomyoglobin pH 2.3
+4679		1FM1 (7)    		4.481	56.562	Human Collagenase-3
+4680		1E0G (4)    		4.300	56.070	C-terminal domain of MLTD
+4681		1b4m    		4.650	55.697	Rat apo-cellular retinol-binding protein II
+4682		1B4M (8)    		4.701	56.240	Rat holo-cellular retinol-binding protein II
+4683		1DDM (4)    		4.427	56.751	dNumb PTB
+4689		1HWH (4)    		4.211	58.039	Human Growth Hormone
+4700		1F3M (23)    		4.457	57.804	Cdc42 + fragment of PAK
+4701		1D9S (2)    		4.184	56.881	mouse p15(INK4B) tumor suppressor
+4717		1F46 (4)    		4.415	56.783	C-terminal FtsZ binding domain of E. coli ZipA
+4721		1D8K (4)    		4.300	57.581	general transcription factor TFIIE-BETA
+4727		1I97 (17)    		4.497	56.805	TFIIS domain I
+4731		1HJD (2)    		4.624	53.624	human melanoma inhibitory activity (MIA) protein
+4735		1JOB (2)    		4.576	56.214	olfactory marker protein
+4737		1BAQ (4)    		4.106	394.280	human prion protein variant M166V
+4766		1DDW (3)    		4.418	56.825	E.Coli peptidyl-prolyl cis-trans isomerase b
+4775		1KLQ (3)    		4.413	57.560	SPINDLE ASSEMBLY CHECKPOINT PROTEIN MAD2
+4781		1MFS (4)    		4.443	55.229	SL2 stem loop RNA from HIV-1
+4782		1TLG (4)    		4.565	54.745	Polyandrocarpa lectin
+4786		1BYL (2)    		4.551	55.878	Bleomycin resistance protein of S. hindustanus
+4789		1F81 (2)    		4.284	59.207	TAZ2 domain of CBP
+4793		1EIW (2)    		4.315	57.683	HYPOTHETICAL PROTEIN MTH538
+4797		1IAZ (2)    		4.673	54.708	EqtII monomer
+4803		1ES1 (8)    		4.292	57.149	bovine ferrous cytochrome b5
+4804		1EHB (6)    		4.292	57.106	bovine ferrous cytochrome b5-N17D
+4809		1HRC (18)    		4.303	57.326	ferrous cytochrome b5 complexed with ferrous cytochrome c
+4813		1EFA (19)    		4.104	58.395	LAC REPRESSOR HP62/DNA COMPLEX
+4827		1GD4 (6)    		4.535	54.966	cystatin A
+4828		1CYV (4)    		4.546	54.931	cystatin A P25S
+4833		1GH5 (2)    		4.725	55.762	Antifungal protein from Streptomyces tendae Tu901
+4836		1QA7 (3)    		4.586	55.738	Hepatitis A 3C Protease monomer
+4839		1MVP (2)    		4.524	56.304	Rous sarcoma virus protease delta LAM mutant
+4848		1EPS (4)    		4.450	56.120	N-terminal domain of 5-enolpyruvyl shikimate-3-phosphate synthase
+4851		1GGW (2)    		4.300	57.432	CDC4P from Schizosaccharomyces pombe
+4857		1BDJ (7)    		4.151	57.812	S100A2 homodimer
+4858		1FJ7 (2)    		4.327	53.654	NUCLEOLIN RBD1
+4863		1FJE (3)    		4.367	53.356	NUCLEOLIN RBD2
+4867		1FJE (2)    		4.328	53.797	NUCLEOLIN RBD12/RNA COMPLEX
+4869		1CG7 (2)    		4.126	55.280	NON HISTONE PROTEIN 6 A
+4876		1QQY (4)    		4.341	56.585	Ca2+-bound state of canine milk lysozyme
+4894		1STU (4)    		6.105	55.321	MATERNAL EFFECT PROTEIN (STAUFEN)/RNA COMPLEX
+4898		1HYJ (3)    		4.424	56.594	complex of the FYVE domain of EEA1 with PtdIns3P
+4905		1SNM (51)    		4.375	56.261	G88W110 fragment of staphylococcal nuclease
+4909		1A3K (2)    		4.723	55.896	human galectin-3
+4912		1F96 (5)    		4.438	58.071	DYNEIN light chain 8 (dlc8) and nNOS (fragment peptide) complex
+4915		1G9L (2)    		4.316	57.067	Polyadenylate-binding protein 1
+4919		1G7E (3)    		4.395	56.365	ERp29 N-domain
+4920		1G7D (3)    		4.158	56.711	ERp29 C-domain
+4922		4PCY (8)    		4.363	54.099	unfolded apoplastocyanin
+4931		1F96 (5)    		4.459	58.013	Human Trefoil Factor Family 1 protein homodimer
+4935		1KVV (2)    		4.307	57.457	Signal Recognition Particle Protein SRP19
+4938		1I17 (2)    		4.293	56.694	mouse doppel
+4941		1JEY (3)    		4.169	57.405	Ku70 DNA binding domain at the C-terminus
+4945		1HS7 (2)    		4.173	59.030	Vam3p N-terminal domain
+4954		1I8D (5)    		4.508	55.881	Riboflavin Synthase N-domain
+4955		1E2B (3)    		4.345	57.339	Cysteinyl-phosphorylated enzyme IIB
+4957		1BJA (3)    		4.138	58.645	N-terminal domain of MotA, MotNF
+4959		1EYH (3)    		4.152	56.244	epsin ENTH domain
+4961		1HUF (2)    		4.357	57.181	YopH complex
+4964		1BNE (36)    		4.473	53.834	Rat Nedd4 WWIII domain - ENaC bP2 Peptide Complex
+4966		1I02 (4)    		4.696	54.295	Cardiotoxin A3
+4968		4TPI (37)    		4.577	56.276	Bovine Pancreatic Trypsin Inhibitor monomer
+4978		1C4R (3)    		4.614	55.219	B0 isoform of the 3rd(C-terminal) globular domain of agrin
+4979		1HA8 (2)    		4.331	55.884	Er-23 pheromone
+4985		1DDG (2)    		4.337	56.813	flavodoxin-like domain of the Escherichia coli sulfite reductase
+4989		1F80 (3)    		4.194	58.009	B. subtilis ACYL CARRIER PROTEIN
+4994		3CTN (6)    		4.272	56.923	C domain of Cardiac Troponin C. complexed to EMD 57033
+4996		1IIO (2)    		4.245	57.022	GlyTM1bZip coiled-coil dimer
+5003		1YTC (2)    		4.099	56.718	reduced yeast iso-2 cytochrome c
+5004		1F80 (2)    		4.194	58.009	human interleukin-13
+5005		1YTC (2)    		4.198	57.107	oxidized yeast iso-2 cytochrome c
+5010		1JQR (3)    		4.462	57.324	DNA Polymerase X
+5013		1C4Z (2)    		4.353	57.146	E6AP catalytic domain
+5018		1ICH (2)    		4.300	58.167	TUMOR NECROSIS FACTOR RECEPTOR-1
+5027		1J8K (2)    		4.609	56.548	human fibronectin EDA
+5041		1IN1 (3)    		4.294	55.893	DNA Ligase III, BRCT domain (E.C.6.5.1.1)
+5042		1J9O (4)    		4.413	57.954	Human lymphotactin monomer
+5044		1IE5 (2)    		4.653	56.175	NEURAL CELL ADHESION MOLECULE
+5054		1JKN (3)    		4.480	56.782	Diadenosine 5',5'''-P1,P4 tetraphosphate hydrolase complexed with ATP
+5055		1IMU (2)    		4.443	57.769	HYPOTHETICAL PROTEIN HI0257
+5058		1GNU (2)    		4.396	57.562	Alzheimer peptide Ab(1-40) of man
+5060		1JDQ (2)    		4.425	56.805	TM006 protein from Thermotoga maritima
+5070		3TS1 (4)    		4.337	56.114	C-terminal domain of tyrosyl-tRNA synthetase
+5071		1A2X (5)    		4.264	56.879	troponin C, skeletal muscle
+5072		1JBJ (2)    		4.651	55.107	CD3 Epsilon and gamma Ectodomain Fragment Complex
+5081		1B2V (6)    		4.393	55.990	Gallium protoporphyrin IX-HasAsm complex
+5101		1AAR (11)    		4.486	57.174	ubiquitin fragment
+5102		1G4Y (3)    		4.337	56.607	SK2 calmodulin binding domain
+5104		1JRM (2)    		4.512	57.325	s100p dimer
+5115		1JI8 (2)    		4.210	57.832	gamma subunit of dissimilatory siroheme-sulfite reductase
+5128		1KOT (2)    		4.298	56.861	GABARAP monomer
+5130		3LHM (164)    		4.311	56.953	human lysozyme at 35 degree C
+5131		1GM1 (2)    		4.458	55.966	Second PDZ domain of PTP-BL
+5142		3LHM (164)    		4.305	57.276	human lysozyme
+5148		1JQ4 (2)    		4.451	56.137	METHANE MONOOXYGENASE COMPONENT C
+5155		1JRU (3)    		4.537	56.581	p47 protein
+5165		1JW3 (2)    		4.538	56.679	Conserved Hypothetical Protein MTH1598
+5166		1JW2 (2)    		4.338	59.400	hemolysin expression modulating protein Hha
+5168		1JYG (2)    		4.155	57.571	protein yjbj
+5185		1VPF (7)    		4.645	629.039	vascular endothelial growth factor receptor-binding domain dimer in complex with peptide v107
+5186		1VPF (7)    		4.595	665.155	vascular endothelial growth factor receptor-binding domain dimer
+5194		1K5W (2)    		4.606	56.407	Synaptotagmin I
+5206		1UWO (2)    		4.254	58.409	S100B dimer
+5211		1D1Z (6)    		4.488	56.658	SAP/SH2D1A bound to peptide n-Y-c
+5212		1D1Z (6)    		4.481	56.651	SAP/SH2D1A bound to peptide n-pY
+5223		1LCK (3)    		4.608	764.420	SH3 domain of the tyrosine-protein kinase Lck
+5275		1KQR (4)    		4.733	56.761	sialic acid binding domain of rhesus rotavirus VP4
+5299		1KLQ (4)    		4.491	58.086	MITOTIC SPINDLE ASSEMBLY CHECKPOINT PROTEIN MAD2A/PEPTIDE
+5310		2PLE (3)    		4.603	56.341	phospholipase C gamma-1 C-terminal SH2 domain
+5317		1BA5 (3)    		4.120	55.482	Telomeric repeat binding factor 1
+5332		1REC (4)    		4.182	58.292	recoverin mutant, E85Q
+5337		1CJE (2)    		4.413	57.055	human adrenodoxin
+5345		1EFA (12)    		4.138	58.638	LACTOSE OPERON REPRESSOR/DNA Complex
+5358		4TPI (38)    		4.448	56.665	Trypsin-Bound Bovine Pancreatic Trypsin Inhibitor
+5359		4TPI (38)    		4.410	56.150	Bovine Pancreatic Trypsin Inhibitor
+5361		1BA5 (3)    		4.163	55.258	TELOMERE REPEAT BINDING FACTOR 1/DNA Complex
