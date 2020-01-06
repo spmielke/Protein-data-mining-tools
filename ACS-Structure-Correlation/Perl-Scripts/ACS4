@@ -1,0 +1,88 @@
+#!/usr/bin/perl
+
+open FH1, ">N_ACS_M";
+print FH1 "BMRB_ACC#\tPDB_ACC#\tHN_ACS\tN_ACS\tMolecule\n\n";
+close FH1;
+
+open FH2, ">CA_ACS_M";
+print FH2 "BMRB_ACC#\tPDB_ACC#\tHA_ACS\tCA_ACS\tMolecule\n\n";
+close FH2;
+
+open FH3, "/home/smielke/str2/N_ACS_SRT_K";
+while ($_=<FH3>) {
+        chomp;
+        if (/(\d*)\s*(.... \(\d*\))\s*(\d*).(\d*)\s*(\d*).(\d*)\s*(.*)/) {
+		$BMRB_N = $1;	
+		$PDB = $2;	
+		
+		open FH4, "/home/smielke/str2/pdb_chk"; 	
+		while ($_=<FH4>) {
+			chomp;
+			if (/(\d*)\s*(.... \(\d*\))\s*(\S..\S)\s*(\d*).(\d*)\s*(\d*).(\d*)\s*(.*)/) {
+				if ($1==$BMRB_N) {  
+					$PDB = $3;
+				}	
+			}
+		}
+		close FH4;  
+ 
+		open FH1, ">>N_ACS_M";
+		print FH1 "$BMRB_N\t\t$PDB\t\t$3.$4\t$5.$6\t$7\n";		
+		close FH1;
+	}
+	elsif (/(\d*)\s*(\S..\S)\s*(\d*)\.(\d*)\s*(\d*)\.(\d*)\s*(.*)/) {
+		$BMRB_N = $1;
+		$PDB = $2;
+		open FH1, ">>N_ACS_M";
+                print FH1 "$BMRB_N\t\t$PDB\t\t$3.$4\t$5.$6\t$7\n";
+                close FH1;
+	}
+}
+
+open FH5, "/home/smielke/str2/CA_ACS_SRT_K";
+while ($_=<FH5>) {
+        chomp;
+	if (/(\d*)\s*(.... \(\d*\))\s*(\d*).(\d*)\s*(\d*).(\d*)\s*(.*)/) {
+                $BMRB_N = $1;  
+               	$PDB = $2; 
+		
+		open FH4, "/home/smielke/str2/pdb_chk";
+                while ($_=<FH4>) {
+                        chomp;
+                        if (/(\d*)\s*(.... \(\d*\))\s*(\S..\S)\s*(\d*).(\d*)\s*(\d*).(\d*)\s*(.*)/) {
+                                if ($1==$BMRB_N) {
+                                $PDB = $3;
+                                }
+                        }
+                }
+                close FH4;
+                
+		open FH2, ">>CA_ACS_M";
+                print FH2 "$BMRB_N\t\t$PDB\t\t$3.$4\t$5.$6\t$7\n";
+                close FH2;
+        }
+        elsif (/(\d*)\s*(\S..\S)\s*(\d*)\.(\d*)\s*(\d*)\.(\d*)\s*(.*)/) {
+                $BMRB_N = $1;
+                $PDB = $2;
+		open FH2, ">>CA_ACS_M";
+                print FH2 "$BMRB_N\t\t$PDB\t\t$3.$4\t$5.$6\t$7\n";
+                close FH2;
+	}
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

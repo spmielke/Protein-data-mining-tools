@@ -1,0 +1,102 @@
+#!/usr/bin/perl
+
+#open FH1, ">N_ACS_SRT_K";
+#print FH1 "BMRB_ACC#\tPDB_ACC#\t\tHN_ACS\tN_ACS\tMolecule\n\n";
+#close FH1;
+
+#open FH2, ">CA_ACS_SRT_K";
+#print FH2 "BMRB_ACC#\tPDB_ACC#\t\tHA_ACS\tCA_ACS\tMolecule\n\n";
+#close FH2;
+
+open FH3, "/home/smielke/str2/N_ACS_SRT";
+while ($_=<FH3>) {
+        chomp;
+        if (/(\d*)\s*(.... .\d*.)\s*(\d*).(\d*)\s*(\d*).(\d*)\s*(.*)/) {
+		$BMRB_N = $1;	
+		$PDB = $2;	
+		open FH4, "/home/smielke/str2/PDB_match.txt"; 	
+		while ($_=<FH4>) {
+			chomp;
+			if (/\s*(\d*).*(\d[a-z][a-z0-9][a-z0-9])/) {  
+				if ($1==$BMRB_N) {  
+					$PDB = $2;
+				}	
+			}
+		}
+		close FH4;
+		open FH1, ">>N_ACS_SRT_K";
+		print FH1 "$BMRB_N\t\t$PDB    \t\t$3.$4\t$5.$6\t$7\n";		
+		close FH1;
+	}
+
+}
+
+open FH5, "/home/smielke/str2/CA_ACS_SRT";
+while ($_=<FH5>) {
+        chomp;
+        if (/(\d*)\s*(.... .\d*.)\s*(\d*).(\d*)\s*(\d*).(\d*)\s*(.*)/) {
+                $BMRB_N = $1;
+                $PDB = $2;
+                open FH4, "/home/smielke/str2/PDB_match.txt";
+                while ($_=<FH4>) {
+                        chomp;
+                        if (/\s*(\d*).*(\d[a-z][a-z0-9][a-z0-9])/) {
+                                if ($1==$BMRB_N) {
+                                        $PDB = $2;
+                                }
+                        }
+                }
+                close FH4;
+                open FH2, ">>CA_ACS_SRT_K";
+                print FH2 "$BMRB_N\t\t$PDB    \t\t$3.$4\t$5.$6\t$7\n";
+                close FH2;
+        }
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#		if ($5 >= $HN_NAME_HASH{$1} && $5/$4 > 0.7 && $8 >= $N_NAME_HASH{$1} && $8/$4 > 0.7) {
+#			$HN_NAME_HASH{$1} = $5;
+#			$N_NAME_HASH{$1} = $8;	
+#			$N_ACS_HASH{$1} = "$2\t\t$3\t$6.$7\t$9.$10";
+#		}
+#        }
+#}
+#close FH7;
+
+#while ( ($key, $value) = each %N_ACS_HASH ) {
+#        open FH8, ">>N_ACS";
+#        print FH8 "$value\t$key\n";
+#        close FH8;
+#}
+
+# CA_ACS_TEMP => CA_ACS
+
+#open FH9, "/home/smielke/str2/CA_ACS_TEMP";
+#while ($_=<FH9>) {
+#        chomp;
+#        if (/"(.*)"\t(\d*)\s*(.... .\d+.)\s*(\d*)\s*(\d*)\s*(\d*).(\d*)\s*(\d*)\s*(\d*).(\d*)/) {
+#                if ($5 >= $HA_NAME_HASH{$1} && $5/$4 > 0.7 && $8 >= $CA_NAME_HASH{$1} && $8/$4 > 0.7) {
+#                       $HA_NAME_HASH{$1} = $5; $CA_NAME_HASH{$1} = $8;
+#                        $CA_ACS_HASH{$1} = "$2\t\t$3\t$6.$7\t$9.$10";
+#                }
+#        }
+#}
+#close FH9;
+
+

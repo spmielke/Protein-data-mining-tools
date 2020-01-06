@@ -1,0 +1,101 @@
+#!/usr/bin/perl   
+
+open FH1, "/home/smielke/str/BMR" # Open file that contains all concatenated 
+				  # BMRB files. 
+	or die "Can't find file. ($!)";
+while ($_ = <FH1>) { # Search "BMR" line by line. 
+	chomp; 
+	if (/data_(\d+)/) { # Find BMRB accession number (first line of each 
+                            # *.str file), and store in BMRB_ACCN; 
+		$BMRB_ACCN = $1;
+	}		 
+
+	chomp;
+        if (/_Mol_system_name\s*['|`|"](.*)[`|'|"]/) { # Find molecule name.
+                $NAME = $1;
+        }	
+	elsif (/_Mol_system_name\s*(\S.*\S)/) { 
+		$NAME = $1;
+	}
+
+
+
+	chomp;
+	if (/_Residue_count\s*(\d+)/) { # Find total number of residues. 
+		$N_RES = $1;	
+	 	if ($N_RES>49) {
+			&ACS($BMRB_ACCN);
+		}
+	}
+}
+close FH1;
+
+sub ACS {
+	$HN_CSsum=0;$NHN=0;$HA_CSsum=0;$NHA=0;$pH=0;$temp=0;	
+	$N_CSsum=0;$NN=0;$CA_CSsum=0;$NCA=0;$PDB_ACCN="    ";$PDB_CNT=0;
+
+	open FH2, "/home/smielke/str/bmr$_[0].str" # Open the individual *.str
+                                                   # file whose res. num. > 49.
+		or die "Can't find file. ($!)";
+	while ($_ = <FH2>) {
+		chomp;		
+		if (/PDB\s+(....)/) {
+			$PDB_ACCN = $1;
+			$PDB_CNT += 1;	
+		}
+
+		chomp;
+		if (/pH\s*(\d+).(\d+)/) {
+			$pH = "$1.$2";	
+		}
+
+		chomp;
+		if (/temperature\s*(\d+)/) {
+			$temp = $1;
+		}	
+
+		chomp;
+		if (/H\s*H\s*(\d+).(\d+)/) {
+			$HN_CS = "$1.$2";  
+			$HN_CSsum += $HN_CS;
+			$NHN += 1; 
+		}
+
+		chomp;
+       		if (/HA\s*H\s*(\d+).(\d+)/) {
+              	        $HA_CS = "$1.$2";
+        	        $HA_CSsum += $HA_CS;
+       		        $NHA += 1;
+		}
+	
+		chomp;
+                if (/N\s*N\s*(\d+).(\d+)/) {
+                        $N_CS = "$1.$2";
+                        $N_CSsum += $N_CS;
+                        $NN += 1;
+                }
+
+		chomp;
+                if (/CA\s*C\s*(\d+).(\d+)/) {
+                        $CA_CS = "$1.$2";
+                        $CA_CSsum += $CA_CS;
+                        $NCA += 1;
+                }
+	}
+	close FH2;
+	
+	if ($HN_CSsum>0 && $N_CSsum>0) {
+		$HN_ACS = $HN_CSsum/$N_RES;$N_ACS = $N_CSsum/$N_RES;		
+		open FH3, ">>N_ACS_TEMP";
+		printf FH3 "\"$NAME\"\t$_[0]\t$PDB_ACCN ($PDB_CNT)\t$N_RES\t$NHN\t\t%.3f\t$NN\t\t%.3f\n",$HN_ACS,$N_ACS;
+        	close FH3;
+	}	
+
+	if ($HA_CSsum>0 && $CA_CSsum>0) {
+                $HA_ACS = $HA_CSsum/$N_RES;$CA_ACS = $CA_CSsum/$N_RES;	
+		open FH4, ">>CA_ACS_TEMP";
+		printf FH4 "\"$NAME\"\t$_[0]\t$PDB_ACCN ($PDB_CNT)\t$N_RES\t$NHA\t\t%.3f\t$NCA\t\t%.3f\n",$HA_ACS,$CA_ACS;
+        	close FH4;	
+	}
+}
+

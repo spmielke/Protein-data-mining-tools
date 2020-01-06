@@ -1,0 +1,57 @@
+#!/usr/bin/perl
+
+# Open the *_ACS_TEMP files, screen them for the entry with the largest number
+# of assigned ACS values for a given molecule, and write the output to
+# *_ACS.
+
+# Write *_ACS file headings:
+
+#open FH8, ">N_ACS";
+#print FH8 "BMRB_ACC#\tPDB_ACC#\tHN_ACS\tN_ACS\tMolecule\n\n";
+#close FH8;
+
+#open FH10, ">CA_ACS";
+#print FH10 "BMRB_ACC#\tPDB_ACC#\tHA_ACS\tCA_ACS\tMolecule\n\n";
+#close FH10;
+
+# N_ACS_TEMP => N_ACS
+
+open FH7, "/home/smielke/str2/N_ACS_TEMP";
+while ($_=<FH7>) {
+        chomp;
+        if (/"(.*)"\t(\d*)\s*(.... .\d*.)\s*(\d*)\s*(\d*)\s*(\d*).(\d*)\s*(\d*)\s*(\d*).(\d*)/) {
+                if ($5 >= $HN_NAME_HASH{$1} && $5/$4 > 0.7 && $8 >= $N_NAME_HASH{$1} && $8/$4 > 0.7) {
+			$HN_NAME_HASH{$1} = $5;
+			$N_NAME_HASH{$1} = $8;	
+			$N_ACS_HASH{$1} = "$2\t\t$3\t$6.$7\t$9.$10";
+		}
+        }
+}
+close FH7;
+
+while ( ($key, $value) = each %N_ACS_HASH ) {
+        open FH8, ">>N_ACS";
+        print FH8 "$value\t$key\n";
+        close FH8;
+}
+
+# CA_ACS_TEMP => CA_ACS
+
+open FH9, "/home/smielke/str2/CA_ACS_TEMP";
+while ($_=<FH9>) {
+        chomp;
+        if (/"(.*)"\t(\d*)\s*(.... .\d+.)\s*(\d*)\s*(\d*)\s*(\d*).(\d*)\s*(\d*)\s*(\d*).(\d*)/) {
+                if ($5 >= $HA_NAME_HASH{$1} && $5/$4 > 0.7 && $8 >= $CA_NAME_HASH{$1} && $8/$4 > 0.7) {
+                        $HA_NAME_HASH{$1} = $5; $CA_NAME_HASH{$1} = $8;
+                        $CA_ACS_HASH{$1} = "$2\t\t$3\t$6.$7\t$9.$10";
+                }
+        }
+}
+close FH9;
+
+while ( ($key, $value) = each %CA_ACS_HASH ) {
+        open FH10, ">>CA_ACS";
+        print FH10 "$value\t$key\n";
+        close FH10;
+}
+
